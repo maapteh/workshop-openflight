@@ -1,0 +1,21 @@
+@import '~styles/variables.scss';
+
+:host {
+  display: block; // angular components are not block elements by default
+  min-height: 100%;
+  padding: 20px 0 0 60px;
+  background-color: $primary;
+  color: $white;
+}
+
+.c-list-destinations {
+  margin: 0;
+  padding: 0 0 20px 20px;
+  list-style: none;
+
+  li {
+    margin-bottom: 4px;
+    line-height: 24px;
+    border-bottom: 1px solid $white;
+  }
+}

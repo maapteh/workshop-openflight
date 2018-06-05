@@ -1,0 +1,7 @@
+<app-search
+  (iata)="doSearch($event)">
+</app-search>
+
+<h1>
+  OpenFlight listview <span *ngIf="iataCode">(departure from: {{iataCode}})</span>
+</h1>

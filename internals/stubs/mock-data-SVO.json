@@ -1,0 +1,5007 @@
+[
+  {
+    "destination": {
+      "id": "1657",
+      "name": "Henri Coandă International Airport",
+      "city": "Bucharest",
+      "country": "Romania",
+      "iataId": "OTP",
+      "icaoId": "LROP",
+      "latitude": 44.5711111,
+      "longitude": 26.085,
+      "timezone": 314,
+      "dst": "2",
+      "tzTimezone": "E",
+      "type": "Europe/Bucharest",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Boeing 737-300",
+      "iataId": "733",
+      "icaoId": "B733"
+    },
+    "airline": {
+      "id": "5179",
+      "name": "Tarom",
+      "alias": null,
+      "iataId": "RO",
+      "icaoId": "ROT",
+      "callSign": "TAROM",
+      "country": "Romania",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 334
+  },
+  {
+    "destination": {
+      "id": "1196",
+      "name": "Varna Airport",
+      "city": "Varna",
+      "country": "Bulgaria",
+      "iataId": "VAR",
+      "icaoId": "LBWN",
+      "latitude": 43.232101,
+      "longitude": 27.8251,
+      "timezone": 230,
+      "dst": "2",
+      "tzTimezone": "E",
+      "type": "Europe/Sofia",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A320",
+      "iataId": "320",
+      "icaoId": "A320"
+    },
+    "airline": {
+      "id": "1548",
+      "name": "Bulgaria Air",
+      "alias": null,
+      "iataId": "FB",
+      "icaoId": "LZB",
+      "callSign": "FLYING BULGARIA",
+      "country": "Bulgaria",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 898
+  },
+  {
+    "destination": {
+      "id": "1191",
+      "name": "Burgas Airport",
+      "city": "Bourgas",
+      "country": "Bulgaria",
+      "iataId": "BOJ",
+      "icaoId": "LBBG",
+      "latitude": 42.56959915161133,
+      "longitude": 27.515199661254883,
+      "timezone": 135,
+      "dst": "2",
+      "tzTimezone": "E",
+      "type": "Europe/Sofia",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A320",
+      "iataId": "320",
+      "icaoId": "A320"
+    },
+    "airline": {
+      "id": "1548",
+      "name": "Bulgaria Air",
+      "alias": null,
+      "iataId": "FB",
+      "icaoId": "LZB",
+      "callSign": "FLYING BULGARIA",
+      "country": "Bulgaria",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 347
+  },
+  {
+    "destination": {
+      "id": "1509",
+      "name": "Catania-Fontanarossa Airport",
+      "city": "Catania",
+      "country": "Italy",
+      "iataId": "CTA",
+      "icaoId": "LICC",
+      "latitude": 37.466801,
+      "longitude": 15.0664,
+      "timezone": 39,
+      "dst": "1",
+      "tzTimezone": "E",
+      "type": "Europe/Rome",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A320",
+      "iataId": "320",
+      "icaoId": "A320"
+    },
+    "airline": {
+      "id": "240",
+      "name": "Air One",
+      "alias": null,
+      "iataId": "AP",
+      "icaoId": "ADH",
+      "callSign": "HERON",
+      "country": "Italy",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 581
+  },
+  {
+    "destination": {
+      "id": "1512",
+      "name": "Falcone–Borsellino Airport",
+      "city": "Palermo",
+      "country": "Italy",
+      "iataId": "PMO",
+      "icaoId": "LICJ",
+      "latitude": 38.175999,
+      "longitude": 13.091,
+      "timezone": 65,
+      "dst": "1",
+      "tzTimezone": "E",
+      "type": "Europe/Rome",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A320",
+      "iataId": "320",
+      "icaoId": "A320"
+    },
+    "airline": {
+      "id": "240",
+      "name": "Air One",
+      "alias": null,
+      "iataId": "AP",
+      "icaoId": "ADH",
+      "callSign": "HERON",
+      "country": "Italy",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 855
+  },
+  {
+    "destination": {
+      "id": "1562",
+      "name": "Pisa International Airport",
+      "city": "Pisa",
+      "country": "Italy",
+      "iataId": "PSA",
+      "icaoId": "LIRP",
+      "latitude": 43.683899,
+      "longitude": 10.3927,
+      "timezone": 6,
+      "dst": "1",
+      "tzTimezone": "E",
+      "type": "Europe/Rome",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A320",
+      "iataId": "320",
+      "icaoId": "A320"
+    },
+    "airline": {
+      "id": "240",
+      "name": "Air One",
+      "alias": null,
+      "iataId": "AP",
+      "icaoId": "ADH",
+      "callSign": "HERON",
+      "country": "Italy",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 326
+  },
+  {
+    "destination": {
+      "id": "2908",
+      "name": "Almaty Airport",
+      "city": "Alma-ata",
+      "country": "Kazakhstan",
+      "iataId": "ALA",
+      "icaoId": "UAAA",
+      "latitude": 43.35210037231445,
+      "longitude": 77.04049682617188,
+      "timezone": 2234,
+      "dst": "6",
+      "tzTimezone": "U",
+      "type": "Asia/Qyzylorda",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A320",
+      "iataId": "320",
+      "icaoId": "A320"
+    },
+    "airline": {
+      "id": "1006",
+      "name": "Air Astana",
+      "alias": null,
+      "iataId": "KC",
+      "icaoId": "KZR",
+      "callSign": "ASTANALINE",
+      "country": "Kazakhstan",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 864
+  },
+  {
+    "destination": {
+      "id": "2910",
+      "name": "Astana International Airport",
+      "city": "Tselinograd",
+      "country": "Kazakhstan",
+      "iataId": "TSE",
+      "icaoId": "UACC",
+      "latitude": 51.02220153808594,
+      "longitude": 71.46690368652344,
+      "timezone": 1165,
+      "dst": "6",
+      "tzTimezone": "U",
+      "type": "Asia/Qyzylorda",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A320",
+      "iataId": "320",
+      "icaoId": "A320"
+    },
+    "airline": {
+      "id": "1006",
+      "name": "Air Astana",
+      "alias": null,
+      "iataId": "KC",
+      "icaoId": "KZR",
+      "callSign": "ASTANALINE",
+      "country": "Kazakhstan",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 456
+  },
+  {
+    "destination": {
+      "id": "2188",
+      "name": "Dubai International Airport",
+      "city": "Dubai",
+      "country": "United Arab Emirates",
+      "iataId": "DXB",
+      "icaoId": "OMDB",
+      "latitude": 25.2527999878,
+      "longitude": 55.3643989563,
+      "timezone": 62,
+      "dst": "4",
+      "tzTimezone": "U",
+      "type": "Asia/Dubai",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A320",
+      "iataId": "320",
+      "icaoId": "A320"
+    },
+    "airline": {
+      "id": "3126",
+      "name": "Kenya Airways",
+      "alias": null,
+      "iataId": "KQ",
+      "icaoId": "KQA",
+      "callSign": "KENYA",
+      "country": "Kenya",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 470
+  },
+  {
+    "destination": {
+      "id": "1353",
+      "name": "Marseille Provence Airport",
+      "city": "Marseille",
+      "country": "France",
+      "iataId": "MRS",
+      "icaoId": "LFML",
+      "latitude": 43.439271922,
+      "longitude": 5.22142410278,
+      "timezone": 74,
+      "dst": "1",
+      "tzTimezone": "E",
+      "type": "Europe/Paris",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A320",
+      "iataId": "320",
+      "icaoId": "A320"
+    },
+    "airline": {
+      "id": "137",
+      "name": "Air France",
+      "alias": null,
+      "iataId": "AF",
+      "icaoId": "AFR",
+      "callSign": "AIRFRANS",
+      "country": "France",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 476
+  },
+  {
+    "destination": {
+      "id": "2922",
+      "name": "Heydar Aliyev International Airport",
+      "city": "Baku",
+      "country": "Azerbaijan",
+      "iataId": "GYD",
+      "icaoId": "UBBB",
+      "latitude": 40.467498779296875,
+      "longitude": 50.04669952392578,
+      "timezone": 10,
+      "dst": "4",
+      "tzTimezone": "E",
+      "type": "Asia/Baku",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Boeing 737-400",
+      "iataId": "734",
+      "icaoId": "B734"
+    },
+    "airline": {
+      "id": "125",
+      "name": "Ariana Afghan Airlines",
+      "alias": null,
+      "iataId": "FG",
+      "icaoId": "AFG",
+      "callSign": "ARIANA",
+      "country": "Afghanistan",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 912
+  },
+  {
+    "destination": {
+      "id": "1569",
+      "name": "Ljubljana Jože Pučnik Airport",
+      "city": "Ljubljana",
+      "country": "Slovenia",
+      "iataId": "LJU",
+      "icaoId": "LJLJ",
+      "latitude": 46.223701,
+      "longitude": 14.4576,
+      "timezone": 1273,
+      "dst": "1",
+      "tzTimezone": "E",
+      "type": "Europe/Ljubljana",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Canadair Regional Jet 200",
+      "iataId": "CR2",
+      "icaoId": "CRJ2"
+    },
+    "airline": {
+      "id": "83",
+      "name": "Adria Airways",
+      "alias": null,
+      "iataId": "JP",
+      "icaoId": "ADR",
+      "callSign": "ADRIA",
+      "country": "Slovenia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 144
+  },
+  {
+    "destination": {
+      "id": "2939",
+      "name": "Boryspil International Airport",
+      "city": "Kiev",
+      "country": "Ukraine",
+      "iataId": "KBP",
+      "icaoId": "UKBB",
+      "latitude": 50.345001220703125,
+      "longitude": 30.894699096679688,
+      "timezone": 427,
+      "dst": "2",
+      "tzTimezone": "E",
+      "type": "Europe/Kiev",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A320",
+      "iataId": "320",
+      "icaoId": "A320"
+    },
+    "airline": {
+      "id": "11811",
+      "name": "AlMasria Universal Airlines",
+      "alias": null,
+      "iataId": "UJ",
+      "icaoId": "LMU",
+      "callSign": "ALMASRIA",
+      "country": "Egypt",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 350
+  },
+  {
+    "destination": {
+      "id": "2947",
+      "name": "Odessa International Airport",
+      "city": "Odessa",
+      "country": "Ukraine",
+      "iataId": "ODS",
+      "icaoId": "UKOO",
+      "latitude": 46.42679977416992,
+      "longitude": 30.67650032043457,
+      "timezone": 172,
+      "dst": "2",
+      "tzTimezone": "E",
+      "type": "Europe/Kiev",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A320",
+      "iataId": "320",
+      "icaoId": "A320"
+    },
+    "airline": {
+      "id": "11811",
+      "name": "AlMasria Universal Airlines",
+      "alias": null,
+      "iataId": "UJ",
+      "icaoId": "LMU",
+      "callSign": "ALMASRIA",
+      "country": "Egypt",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 590
+  },
+  {
+    "destination": {
+      "id": "609",
+      "name": "Copenhagen Kastrup Airport",
+      "city": "Copenhagen",
+      "country": "Denmark",
+      "iataId": "CPH",
+      "icaoId": "EKCH",
+      "latitude": 55.617900848389,
+      "longitude": 12.656000137329,
+      "timezone": 17,
+      "dst": "1",
+      "tzTimezone": "E",
+      "type": "Europe/Copenhagen",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A320",
+      "iataId": "320",
+      "icaoId": "A320"
+    },
+    "airline": {
+      "id": "4319",
+      "name": "Scandinavian Airlines System",
+      "alias": "SAS Scandinavian Airlines",
+      "iataId": "SK",
+      "icaoId": "SAS",
+      "callSign": "SCANDINAVIAN",
+      "country": "Sweden",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 228
+  },
+  {
+    "destination": {
+      "id": "4057",
+      "name": "Sharm El Sheikh International Airport",
+      "city": "Sharm El Sheikh",
+      "country": "Egypt",
+      "iataId": "SSH",
+      "icaoId": "HESH",
+      "latitude": 27.9773006439,
+      "longitude": 34.3950004578,
+      "timezone": 143,
+      "dst": "2",
+      "tzTimezone": "N",
+      "type": "Africa/Cairo",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Boeing 747-400",
+      "iataId": "744",
+      "icaoId": "B744"
+    },
+    "airline": {
+      "id": "5067",
+      "name": "Transaero Airlines",
+      "alias": null,
+      "iataId": "UN",
+      "icaoId": "TSO",
+      "callSign": "TRANSOVIET",
+      "country": "Russia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 806
+  },
+  {
+    "destination": {
+      "id": "1472",
+      "name": "Diagoras Airport",
+      "city": "Rhodos",
+      "country": "Greece",
+      "iataId": "RHO",
+      "icaoId": "LGRP",
+      "latitude": 36.405399322509766,
+      "longitude": 28.086200714111328,
+      "timezone": 17,
+      "dst": "2",
+      "tzTimezone": "E",
+      "type": "Europe/Athens",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Boeing 747-400",
+      "iataId": "744",
+      "icaoId": "B744"
+    },
+    "airline": {
+      "id": "5067",
+      "name": "Transaero Airlines",
+      "alias": null,
+      "iataId": "UN",
+      "icaoId": "TSO",
+      "callSign": "TRANSOVIET",
+      "country": "Russia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 395
+  },
+  {
+    "destination": {
+      "id": "415",
+      "name": "Lennart Meri Tallinn Airport",
+      "city": "Tallinn-ulemiste International",
+      "country": "Estonia",
+      "iataId": "TLL",
+      "icaoId": "EETN",
+      "latitude": 59.41329956049999,
+      "longitude": 24.832799911499997,
+      "timezone": 131,
+      "dst": "2",
+      "tzTimezone": "E",
+      "type": "Europe/Tallinn",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Canadair Regional Jet 900",
+      "iataId": "CR9",
+      "icaoId": "CRJ9"
+    },
+    "airline": {
+      "id": "2218",
+      "name": "Estonian Air",
+      "alias": null,
+      "iataId": "OV",
+      "icaoId": "ELL",
+      "callSign": "ESTONIAN",
+      "country": "Estonia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 499
+  },
+  {
+    "destination": {
+      "id": "644",
+      "name": "Oslo Gardermoen Airport",
+      "city": "Oslo",
+      "country": "Norway",
+      "iataId": "OSL",
+      "icaoId": "ENGM",
+      "latitude": 60.193901062012,
+      "longitude": 11.100399971008,
+      "timezone": 681,
+      "dst": "1",
+      "tzTimezone": "E",
+      "type": "Europe/Oslo",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A320",
+      "iataId": "320",
+      "icaoId": "A320"
+    },
+    "airline": {
+      "id": "4319",
+      "name": "Scandinavian Airlines System",
+      "alias": "SAS Scandinavian Airlines",
+      "iataId": "SK",
+      "icaoId": "SAS",
+      "callSign": "SCANDINAVIAN",
+      "country": "Sweden",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 418
+  },
+  {
+    "destination": {
+      "id": "3399",
+      "name": "Ürümqi Diwopu International Airport",
+      "city": "Urumqi",
+      "country": "China",
+      "iataId": "URC",
+      "icaoId": "ZWWW",
+      "latitude": 43.907100677490234,
+      "longitude": 87.47419738769531,
+      "timezone": 2125,
+      "dst": "8",
+      "tzTimezone": "U",
+      "type": "Asia/Shanghai",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Boeing 737-800",
+      "iataId": "738",
+      "icaoId": "B738"
+    },
+    "airline": {
+      "id": "1767",
+      "name": "China Southern Airlines",
+      "alias": null,
+      "iataId": "CZ",
+      "icaoId": "CSN",
+      "callSign": "CHINA SOUTHERN",
+      "country": "China",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 517
+  },
+  {
+    "destination": {
+      "id": "580",
+      "name": "Amsterdam Airport Schiphol",
+      "city": "Amsterdam",
+      "country": "Netherlands",
+      "iataId": "AMS",
+      "icaoId": "EHAM",
+      "latitude": 52.3086013794,
+      "longitude": 4.763889789579999,
+      "timezone": -11,
+      "dst": "1",
+      "tzTimezone": "E",
+      "type": "Europe/Amsterdam",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Boeing 737",
+      "iataId": "737",
+      "icaoId": null
+    },
+    "airline": {
+      "id": "3090",
+      "name": "KLM Royal Dutch Airlines",
+      "alias": null,
+      "iataId": "KL",
+      "icaoId": "KLM",
+      "callSign": "KLM",
+      "country": "Netherlands",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 179
+  },
+  {
+    "destination": {
+      "id": "3370",
+      "name": "Guangzhou Baiyun International Airport",
+      "city": "Guangzhou",
+      "country": "China",
+      "iataId": "CAN",
+      "icaoId": "ZGGG",
+      "latitude": 23.39240074157715,
+      "longitude": 113.29900360107422,
+      "timezone": 50,
+      "dst": "8",
+      "tzTimezone": "U",
+      "type": "Asia/Shanghai",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A330-300",
+      "iataId": "333",
+      "icaoId": "A333"
+    },
+    "airline": {
+      "id": "1767",
+      "name": "China Southern Airlines",
+      "alias": null,
+      "iataId": "CZ",
+      "icaoId": "CSN",
+      "callSign": "CHINA SOUTHERN",
+      "country": "China",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 827
+  },
+  {
+    "destination": {
+      "id": "3364",
+      "name": "Beijing Capital International Airport",
+      "city": "Beijing",
+      "country": "China",
+      "iataId": "PEK",
+      "icaoId": "ZBAA",
+      "latitude": 40.080101013183594,
+      "longitude": 116.58499908447266,
+      "timezone": 116,
+      "dst": "8",
+      "tzTimezone": "U",
+      "type": "Asia/Shanghai",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A330-300",
+      "iataId": "333",
+      "icaoId": "A333"
+    },
+    "airline": {
+      "id": "2660",
+      "name": "Hainan Airlines",
+      "alias": null,
+      "iataId": "HU",
+      "icaoId": "CHH",
+      "callSign": "HAINAN",
+      "country": "China",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 41
+  },
+  {
+    "destination": {
+      "id": "3797",
+      "name": "John F Kennedy International Airport",
+      "city": "New York",
+      "country": "United States",
+      "iataId": "JFK",
+      "icaoId": "KJFK",
+      "latitude": 40.63980103,
+      "longitude": -73.77890015,
+      "timezone": 13,
+      "dst": "-5",
+      "tzTimezone": "A",
+      "type": "America/New_York",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A330-300",
+      "iataId": "333",
+      "icaoId": "A333"
+    },
+    "airline": {
+      "id": "2009",
+      "name": "Delta Air Lines",
+      "alias": null,
+      "iataId": "DL",
+      "icaoId": "DAL",
+      "callSign": "DELTA",
+      "country": "United States",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 995
+  },
+  {
+    "destination": {
+      "id": "3406",
+      "name": "Shanghai Pudong International Airport",
+      "city": "Shanghai",
+      "country": "China",
+      "iataId": "PVG",
+      "icaoId": "ZSPD",
+      "latitude": 31.143400192260742,
+      "longitude": 121.80500030517578,
+      "timezone": 13,
+      "dst": "8",
+      "tzTimezone": "U",
+      "type": "Asia/Shanghai",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A330-300",
+      "iataId": "333",
+      "icaoId": "A333"
+    },
+    "airline": {
+      "id": "1758",
+      "name": "China Eastern Airlines",
+      "alias": null,
+      "iataId": "MU",
+      "icaoId": "CES",
+      "callSign": "CHINA EASTERN",
+      "country": "China",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 5
+  },
+  {
+    "destination": {
+      "id": "3930",
+      "name": "Incheon International Airport",
+      "city": "Seoul",
+      "country": "South Korea",
+      "iataId": "ICN",
+      "icaoId": "RKSI",
+      "latitude": 37.46910095214844,
+      "longitude": 126.45099639892578,
+      "timezone": 23,
+      "dst": "9",
+      "tzTimezone": "U",
+      "type": "Asia/Seoul",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Boeing 777-200",
+      "iataId": "772",
+      "icaoId": "B772"
+    },
+    "airline": {
+      "id": "3163",
+      "name": "Korean Air",
+      "alias": null,
+      "iataId": "KE",
+      "icaoId": "KAL",
+      "callSign": "KOREANAIR",
+      "country": "Republic of Korea",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 759
+  },
+  {
+    "destination": {
+      "id": "1130",
+      "name": "Hurghada International Airport",
+      "city": "Hurghada",
+      "country": "Egypt",
+      "iataId": "HRG",
+      "icaoId": "HEGN",
+      "latitude": 27.178300857543945,
+      "longitude": 33.799400329589844,
+      "timezone": 52,
+      "dst": "2",
+      "tzTimezone": "U",
+      "type": "Africa/Cairo",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Boeing 747-400",
+      "iataId": "744",
+      "icaoId": "B744"
+    },
+    "airline": {
+      "id": "5067",
+      "name": "Transaero Airlines",
+      "alias": null,
+      "iataId": "UN",
+      "icaoId": "TSO",
+      "callSign": "TRANSOVIET",
+      "country": "Russia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 735
+  },
+  {
+    "destination": {
+      "id": "2967",
+      "name": "Volgograd International Airport",
+      "city": "Volgograd",
+      "country": "Russia",
+      "iataId": "VOG",
+      "icaoId": "URWW",
+      "latitude": 48.782501220703125,
+      "longitude": 44.34550094604492,
+      "timezone": 482,
+      "dst": "3",
+      "tzTimezone": "N",
+      "type": "Europe/Moscow",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A320",
+      "iataId": "320",
+      "icaoId": "A320"
+    },
+    "airline": {
+      "id": "130",
+      "name": "Aeroflot Russian Airlines",
+      "alias": null,
+      "iataId": "SU",
+      "icaoId": "AFL",
+      "callSign": "AEROFLOT",
+      "country": "Russia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 432
+  },
+  {
+    "destination": {
+      "id": "1909",
+      "name": "José Martí International Airport",
+      "city": "Havana",
+      "country": "Cuba",
+      "iataId": "HAV",
+      "icaoId": "MUHA",
+      "latitude": 22.989200592041016,
+      "longitude": -82.40910339355469,
+      "timezone": 210,
+      "dst": "-5",
+      "tzTimezone": "U",
+      "type": "America/Havana",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A330-200",
+      "iataId": "332",
+      "icaoId": "A332"
+    },
+    "airline": {
+      "id": "1936",
+      "name": "Cubana de Aviación",
+      "alias": null,
+      "iataId": "CU",
+      "icaoId": "CUB",
+      "callSign": "CUBANA",
+      "country": "Cuba",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 151
+  },
+  {
+    "destination": {
+      "id": "1701",
+      "name": "Atatürk International Airport",
+      "city": "Istanbul",
+      "country": "Turkey",
+      "iataId": "IST",
+      "icaoId": "LTBA",
+      "latitude": 40.9768981934,
+      "longitude": 28.814599990799998,
+      "timezone": 163,
+      "dst": "3",
+      "tzTimezone": "E",
+      "type": "Europe/Istanbul",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A320",
+      "iataId": "320",
+      "icaoId": "A320"
+    },
+    "airline": {
+      "id": "130",
+      "name": "Aeroflot Russian Airlines",
+      "alias": null,
+      "iataId": "SU",
+      "icaoId": "AFL",
+      "callSign": "AEROFLOT",
+      "country": "Russia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 145
+  },
+  {
+    "destination": {
+      "id": "4353",
+      "name": "Anapa Vityazevo Airport",
+      "city": "Anapa",
+      "country": "Russia",
+      "iataId": "AAQ",
+      "icaoId": "URKA",
+      "latitude": 45.002101898193,
+      "longitude": 37.347301483154,
+      "timezone": 174,
+      "dst": "3",
+      "tzTimezone": "N",
+      "type": "Europe/Moscow",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A320",
+      "iataId": "320",
+      "icaoId": "A320"
+    },
+    "airline": {
+      "id": "130",
+      "name": "Aeroflot Russian Airlines",
+      "alias": null,
+      "iataId": "SU",
+      "icaoId": "AFL",
+      "callSign": "AEROFLOT",
+      "country": "Russia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 755
+  },
+  {
+    "destination": {
+      "id": "1452",
+      "name": "Heraklion International Nikos Kazantzakis Airport",
+      "city": "Heraklion",
+      "country": "Greece",
+      "iataId": "HER",
+      "icaoId": "LGIR",
+      "latitude": 35.3396987915,
+      "longitude": 25.180299758900002,
+      "timezone": 115,
+      "dst": "2",
+      "tzTimezone": "E",
+      "type": "Europe/Athens",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A321",
+      "iataId": "321",
+      "icaoId": "A321"
+    },
+    "airline": {
+      "id": "130",
+      "name": "Aeroflot Russian Airlines",
+      "alias": null,
+      "iataId": "SU",
+      "icaoId": "AFL",
+      "callSign": "AEROFLOT",
+      "country": "Russia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 431
+  },
+  {
+    "destination": {
+      "id": "1760",
+      "name": "Punta Cana International Airport",
+      "city": "Punta Cana",
+      "country": "Dominican Republic",
+      "iataId": "PUJ",
+      "icaoId": "MDPC",
+      "latitude": 18.567399978599997,
+      "longitude": -68.36340332030001,
+      "timezone": 47,
+      "dst": "-4",
+      "tzTimezone": "U",
+      "type": "America/Santo_Domingo",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Boeing 747-400",
+      "iataId": "744",
+      "icaoId": "B744"
+    },
+    "airline": {
+      "id": "5067",
+      "name": "Transaero Airlines",
+      "alias": null,
+      "iataId": "UN",
+      "icaoId": "TSO",
+      "callSign": "TRANSOVIET",
+      "country": "Russia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 759
+  },
+  {
+    "destination": {
+      "id": "1678",
+      "name": "Zürich Airport",
+      "city": "Zurich",
+      "country": "Switzerland",
+      "iataId": "ZRH",
+      "icaoId": "LSZH",
+      "latitude": 47.464698791504,
+      "longitude": 8.5491695404053,
+      "timezone": 1416,
+      "dst": "1",
+      "tzTimezone": "E",
+      "type": "Europe/Zurich",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A320",
+      "iataId": "320",
+      "icaoId": "A320"
+    },
+    "airline": {
+      "id": "130",
+      "name": "Aeroflot Russian Airlines",
+      "alias": null,
+      "iataId": "SU",
+      "icaoId": "AFL",
+      "callSign": "AEROFLOT",
+      "country": "Russia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 131
+  },
+  {
+    "destination": {
+      "id": "3156",
+      "name": "Malé International Airport",
+      "city": "Male",
+      "country": "Maldives",
+      "iataId": "MLE",
+      "icaoId": "VRMM",
+      "latitude": 4.191830158233643,
+      "longitude": 73.52909851074219,
+      "timezone": 6,
+      "dst": "5",
+      "tzTimezone": "U",
+      "type": "Indian/Maldives",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A330-300",
+      "iataId": "333",
+      "icaoId": "A333"
+    },
+    "airline": {
+      "id": "130",
+      "name": "Aeroflot Russian Airlines",
+      "alias": null,
+      "iataId": "SU",
+      "icaoId": "AFL",
+      "callSign": "AEROFLOT",
+      "country": "Russia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 518
+  },
+  {
+    "destination": {
+      "id": "4274",
+      "name": "Nizhny Novgorod Strigino International Airport",
+      "city": "Nizhniy Novgorod",
+      "country": "Russia",
+      "iataId": "GOJ",
+      "icaoId": "UWGG",
+      "latitude": 56.230098724365,
+      "longitude": 43.784000396729,
+      "timezone": 256,
+      "dst": "3",
+      "tzTimezone": "N",
+      "type": "Europe/Moscow",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Sukhoi Superjet 100-95",
+      "iataId": "SU9",
+      "icaoId": "SU95"
+    },
+    "airline": {
+      "id": "130",
+      "name": "Aeroflot Russian Airlines",
+      "alias": null,
+      "iataId": "SU",
+      "icaoId": "AFL",
+      "callSign": "AEROFLOT",
+      "country": "Russia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 569
+  },
+  {
+    "destination": {
+      "id": "2955",
+      "name": "Abakan Airport",
+      "city": "Abakan",
+      "country": "Russia",
+      "iataId": "ABA",
+      "icaoId": "UNAA",
+      "latitude": 53.7400016784668,
+      "longitude": 91.38500213623047,
+      "timezone": 831,
+      "dst": "7",
+      "tzTimezone": "N",
+      "type": "Asia/Krasnoyarsk",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A320",
+      "iataId": "320",
+      "icaoId": "A320"
+    },
+    "airline": {
+      "id": "130",
+      "name": "Aeroflot Russian Airlines",
+      "alias": null,
+      "iataId": "SU",
+      "icaoId": "AFL",
+      "callSign": "AEROFLOT",
+      "country": "Russia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 657
+  },
+  {
+    "destination": {
+      "id": "1197",
+      "name": "Larnaca International Airport",
+      "city": "Larnaca",
+      "country": "Cyprus",
+      "iataId": "LCA",
+      "icaoId": "LCLK",
+      "latitude": 34.875099182128906,
+      "longitude": 33.624900817871094,
+      "timezone": 8,
+      "dst": "2",
+      "tzTimezone": "E",
+      "type": "Asia/Nicosia",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A320",
+      "iataId": "320",
+      "icaoId": "A320"
+    },
+    "airline": {
+      "id": "1942",
+      "name": "Cyprus Airways",
+      "alias": null,
+      "iataId": "CY",
+      "icaoId": "CYP",
+      "callSign": "CYPRUS",
+      "country": "Cyprus",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 397
+  },
+  {
+    "destination": {
+      "id": "2989",
+      "name": "Syktyvkar Airport",
+      "city": "Syktyvkar",
+      "country": "Russia",
+      "iataId": "SCW",
+      "icaoId": "UUYY",
+      "latitude": 61.64699935913086,
+      "longitude": 50.84510040283203,
+      "timezone": 342,
+      "dst": "3",
+      "tzTimezone": "N",
+      "type": "Europe/Moscow",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Boeing 737-500",
+      "iataId": "735",
+      "icaoId": "B735"
+    },
+    "airline": {
+      "id": "503",
+      "name": "Aeroflot-Nord",
+      "alias": null,
+      "iataId": "5N",
+      "icaoId": "AUL",
+      "callSign": "DVINA",
+      "country": "Russia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 155
+  },
+  {
+    "destination": {
+      "id": "2954",
+      "name": "Minsk National Airport",
+      "city": "Minsk 2",
+      "country": "Belarus",
+      "iataId": "MSQ",
+      "icaoId": "UMMS",
+      "latitude": 53.882499694824,
+      "longitude": 28.030700683594,
+      "timezone": 670,
+      "dst": "3",
+      "tzTimezone": "E",
+      "type": "Europe/Minsk",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A320",
+      "iataId": "320",
+      "icaoId": "A320"
+    },
+    "airline": {
+      "id": "130",
+      "name": "Aeroflot Russian Airlines",
+      "alias": null,
+      "iataId": "SU",
+      "icaoId": "AFL",
+      "callSign": "AEROFLOT",
+      "country": "Russia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 559
+  },
+  {
+    "destination": {
+      "id": "4375",
+      "name": "Sary-Arka Airport",
+      "city": "Karaganda",
+      "country": "Kazakhstan",
+      "iataId": "KGF",
+      "icaoId": "UAKK",
+      "latitude": 49.670799255371094,
+      "longitude": 73.33439636230469,
+      "timezone": 1765,
+      "dst": "6",
+      "tzTimezone": "U",
+      "type": "Asia/Qyzylorda",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A320",
+      "iataId": "320",
+      "icaoId": "A320"
+    },
+    "airline": {
+      "id": "130",
+      "name": "Aeroflot Russian Airlines",
+      "alias": null,
+      "iataId": "SU",
+      "icaoId": "AFL",
+      "callSign": "AEROFLOT",
+      "country": "Russia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 687
+  },
+  {
+    "destination": {
+      "id": "2965",
+      "name": "Sochi International Airport",
+      "city": "Sochi",
+      "country": "Russia",
+      "iataId": "AER",
+      "icaoId": "URSS",
+      "latitude": 43.449901580811,
+      "longitude": 39.956600189209,
+      "timezone": 89,
+      "dst": "3",
+      "tzTimezone": "N",
+      "type": "Europe/Moscow",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A321",
+      "iataId": "321",
+      "icaoId": "A321"
+    },
+    "airline": {
+      "id": "130",
+      "name": "Aeroflot Russian Airlines",
+      "alias": null,
+      "iataId": "SU",
+      "icaoId": "AFL",
+      "callSign": "AEROFLOT",
+      "country": "Russia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 319
+  },
+  {
+    "destination": {
+      "id": "3484",
+      "name": "Los Angeles International Airport",
+      "city": "Los Angeles",
+      "country": "United States",
+      "iataId": "LAX",
+      "icaoId": "KLAX",
+      "latitude": 33.94250107,
+      "longitude": -118.4079971,
+      "timezone": 125,
+      "dst": "-8",
+      "tzTimezone": "A",
+      "type": "America/Los_Angeles",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A330-200",
+      "iataId": "332",
+      "icaoId": "A332"
+    },
+    "airline": {
+      "id": "2009",
+      "name": "Delta Air Lines",
+      "alias": null,
+      "iataId": "DL",
+      "icaoId": "DAL",
+      "callSign": "DELTA",
+      "country": "United States",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 141
+  },
+  {
+    "destination": {
+      "id": "2927",
+      "name": "Khabarovsk-Novy Airport",
+      "city": "Khabarovsk",
+      "country": "Russia",
+      "iataId": "KHV",
+      "icaoId": "UHHH",
+      "latitude": 48.52799987793,
+      "longitude": 135.18800354004,
+      "timezone": 244,
+      "dst": "10",
+      "tzTimezone": "N",
+      "type": "Asia/Vladivostok",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A330-300",
+      "iataId": "333",
+      "icaoId": "A333"
+    },
+    "airline": {
+      "id": "130",
+      "name": "Aeroflot Russian Airlines",
+      "alias": null,
+      "iataId": "SU",
+      "icaoId": "AFL",
+      "callSign": "AEROFLOT",
+      "country": "Russia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 824
+  },
+  {
+    "destination": {
+      "id": "6969",
+      "name": "Begishevo Airport",
+      "city": "Nizhnekamsk",
+      "country": "Russia",
+      "iataId": "NBC",
+      "icaoId": "UWKE",
+      "latitude": 55.564701080322266,
+      "longitude": 52.092498779296875,
+      "timezone": 643,
+      "dst": "3",
+      "tzTimezone": "N",
+      "type": "Europe/Moscow",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A320",
+      "iataId": "320",
+      "icaoId": "A320"
+    },
+    "airline": {
+      "id": "130",
+      "name": "Aeroflot Russian Airlines",
+      "alias": null,
+      "iataId": "SU",
+      "icaoId": "AFL",
+      "callSign": "AEROFLOT",
+      "country": "Russia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 243
+  },
+  {
+    "destination": {
+      "id": "4374",
+      "name": "Yemelyanovo Airport",
+      "city": "Krasnoyarsk",
+      "country": "Russia",
+      "iataId": "KJA",
+      "icaoId": "UNKL",
+      "latitude": 56.172901153564,
+      "longitude": 92.493301391602,
+      "timezone": 942,
+      "dst": "7",
+      "tzTimezone": "N",
+      "type": "Asia/Krasnoyarsk",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A321",
+      "iataId": "321",
+      "icaoId": "A321"
+    },
+    "airline": {
+      "id": "130",
+      "name": "Aeroflot Russian Airlines",
+      "alias": null,
+      "iataId": "SU",
+      "icaoId": "AFL",
+      "callSign": "AEROFLOT",
+      "country": "Russia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 662
+  },
+  {
+    "destination": {
+      "id": "352",
+      "name": "Hannover Airport",
+      "city": "Hannover",
+      "country": "Germany",
+      "iataId": "HAJ",
+      "icaoId": "EDDV",
+      "latitude": 52.461101532,
+      "longitude": 9.685079574580001,
+      "timezone": 183,
+      "dst": "1",
+      "tzTimezone": "E",
+      "type": "Europe/Berlin",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A320",
+      "iataId": "320",
+      "icaoId": "A320"
+    },
+    "airline": {
+      "id": "130",
+      "name": "Aeroflot Russian Airlines",
+      "alias": null,
+      "iataId": "SU",
+      "icaoId": "AFL",
+      "callSign": "AEROFLOT",
+      "country": "Russia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 846
+  },
+  {
+    "destination": {
+      "id": "1230",
+      "name": "Málaga Airport",
+      "city": "Malaga",
+      "country": "Spain",
+      "iataId": "AGP",
+      "icaoId": "LEMG",
+      "latitude": 36.67490005493164,
+      "longitude": -4.499110221862793,
+      "timezone": 53,
+      "dst": "1",
+      "tzTimezone": "E",
+      "type": "Europe/Madrid",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A320",
+      "iataId": "320",
+      "icaoId": "A320"
+    },
+    "airline": {
+      "id": "130",
+      "name": "Aeroflot Russian Airlines",
+      "alias": null,
+      "iataId": "SU",
+      "icaoId": "AFL",
+      "callSign": "AEROFLOT",
+      "country": "Russia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 528
+  },
+  {
+    "destination": {
+      "id": "3576",
+      "name": "Miami International Airport",
+      "city": "Miami",
+      "country": "United States",
+      "iataId": "MIA",
+      "icaoId": "KMIA",
+      "latitude": 25.79319953918457,
+      "longitude": -80.29060363769531,
+      "timezone": 8,
+      "dst": "-5",
+      "tzTimezone": "A",
+      "type": "America/New_York",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A330-200",
+      "iataId": "332",
+      "icaoId": "A332"
+    },
+    "airline": {
+      "id": "2009",
+      "name": "Delta Air Lines",
+      "alias": null,
+      "iataId": "DL",
+      "icaoId": "DAL",
+      "callSign": "DELTA",
+      "country": "United States",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 149
+  },
+  {
+    "destination": {
+      "id": "2942",
+      "name": "Simferopol International Airport",
+      "city": "Simferopol",
+      "country": "Ukraine",
+      "iataId": "SIP",
+      "icaoId": "UKFF",
+      "latitude": 45.05220031738281,
+      "longitude": 33.975101470947266,
+      "timezone": 639,
+      "dst": "3",
+      "tzTimezone": "E",
+      "type": "Europe/Simferopol",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A320",
+      "iataId": "320",
+      "icaoId": "A320"
+    },
+    "airline": {
+      "id": "130",
+      "name": "Aeroflot Russian Airlines",
+      "alias": null,
+      "iataId": "SU",
+      "icaoId": "AFL",
+      "callSign": "AEROFLOT",
+      "country": "Russia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 689
+  },
+  {
+    "destination": {
+      "id": "2990",
+      "name": "Kazan International Airport",
+      "city": "Kazan",
+      "country": "Russia",
+      "iataId": "KZN",
+      "icaoId": "UWKD",
+      "latitude": 55.606201171875,
+      "longitude": 49.278701782227,
+      "timezone": 411,
+      "dst": "3",
+      "tzTimezone": "N",
+      "type": "Europe/Moscow",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A320",
+      "iataId": "320",
+      "icaoId": "A320"
+    },
+    "airline": {
+      "id": "130",
+      "name": "Aeroflot Russian Airlines",
+      "alias": null,
+      "iataId": "SU",
+      "icaoId": "AFL",
+      "callSign": "AEROFLOT",
+      "country": "Russia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 474
+  },
+  {
+    "destination": {
+      "id": "342",
+      "name": "Hamburg Airport",
+      "city": "Hamburg",
+      "country": "Germany",
+      "iataId": "HAM",
+      "icaoId": "EDDH",
+      "latitude": 53.630401611328,
+      "longitude": 9.9882297515869,
+      "timezone": 53,
+      "dst": "1",
+      "tzTimezone": "E",
+      "type": "Europe/Berlin",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Boeing 737-800",
+      "iataId": "738",
+      "icaoId": "B738"
+    },
+    "airline": {
+      "id": "130",
+      "name": "Aeroflot Russian Airlines",
+      "alias": null,
+      "iataId": "SU",
+      "icaoId": "AFL",
+      "callSign": "AEROFLOT",
+      "country": "Russia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 618
+  },
+  {
+    "destination": {
+      "id": "737",
+      "name": "Stockholm-Arlanda Airport",
+      "city": "Stockholm",
+      "country": "Sweden",
+      "iataId": "ARN",
+      "icaoId": "ESSA",
+      "latitude": 59.651901245117,
+      "longitude": 17.918600082397,
+      "timezone": 137,
+      "dst": "1",
+      "tzTimezone": "E",
+      "type": "Europe/Stockholm",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A320",
+      "iataId": "320",
+      "icaoId": "A320"
+    },
+    "airline": {
+      "id": "130",
+      "name": "Aeroflot Russian Airlines",
+      "alias": null,
+      "iataId": "SU",
+      "icaoId": "AFL",
+      "callSign": "AEROFLOT",
+      "country": "Russia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 221
+  },
+  {
+    "destination": {
+      "id": "1555",
+      "name": "Leonardo da Vinci–Fiumicino Airport",
+      "city": "Rome",
+      "country": "Italy",
+      "iataId": "FCO",
+      "icaoId": "LIRF",
+      "latitude": 41.8002778,
+      "longitude": 12.2388889,
+      "timezone": 13,
+      "dst": "1",
+      "tzTimezone": "E",
+      "type": "Europe/Rome",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A321",
+      "iataId": "321",
+      "icaoId": "A321"
+    },
+    "airline": {
+      "id": "596",
+      "name": "Alitalia",
+      "alias": null,
+      "iataId": "AZ",
+      "icaoId": "AZA",
+      "callSign": "ALITALIA",
+      "country": "Italy",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 178
+  },
+  {
+    "destination": {
+      "id": "2969",
+      "name": "Magnitogorsk International Airport",
+      "city": "Magnetiogorsk",
+      "country": "Russia",
+      "iataId": "MQF",
+      "icaoId": "USCM",
+      "latitude": 53.39310073852539,
+      "longitude": 58.755699157714844,
+      "timezone": 1430,
+      "dst": "5",
+      "tzTimezone": "N",
+      "type": "Asia/Yekaterinburg",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Sukhoi Superjet 100-95",
+      "iataId": "SU9",
+      "icaoId": "SU95"
+    },
+    "airline": {
+      "id": "130",
+      "name": "Aeroflot Russian Airlines",
+      "alias": null,
+      "iataId": "SU",
+      "icaoId": "AFL",
+      "callSign": "AEROFLOT",
+      "country": "Russia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 908
+  },
+  {
+    "destination": {
+      "id": "2992",
+      "name": "Ufa International Airport",
+      "city": "Ufa",
+      "country": "Russia",
+      "iataId": "UFA",
+      "icaoId": "UWUU",
+      "latitude": 54.557498931885,
+      "longitude": 55.874401092529,
+      "timezone": 449,
+      "dst": "5",
+      "tzTimezone": "N",
+      "type": "Asia/Yekaterinburg",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A320",
+      "iataId": "320",
+      "icaoId": "A320"
+    },
+    "airline": {
+      "id": "130",
+      "name": "Aeroflot Russian Airlines",
+      "alias": null,
+      "iataId": "SU",
+      "icaoId": "AFL",
+      "callSign": "AEROFLOT",
+      "country": "Russia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 979
+  },
+  {
+    "destination": {
+      "id": "3199",
+      "name": "Noi Bai International Airport",
+      "city": "Hanoi",
+      "country": "Vietnam",
+      "iataId": "HAN",
+      "icaoId": "VVNB",
+      "latitude": 21.221200942993164,
+      "longitude": 105.80699920654297,
+      "timezone": 39,
+      "dst": "7",
+      "tzTimezone": "U",
+      "type": "Asia/Saigon",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A330-300",
+      "iataId": "333",
+      "icaoId": "A333"
+    },
+    "airline": {
+      "id": "130",
+      "name": "Aeroflot Russian Airlines",
+      "alias": null,
+      "iataId": "SU",
+      "icaoId": "AFL",
+      "callSign": "AEROFLOT",
+      "country": "Russia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 669
+  },
+  {
+    "destination": {
+      "id": "3941",
+      "name": "Eleftherios Venizelos International Airport",
+      "city": "Athens",
+      "country": "Greece",
+      "iataId": "ATH",
+      "icaoId": "LGAV",
+      "latitude": 37.9364013672,
+      "longitude": 23.9444999695,
+      "timezone": 308,
+      "dst": "2",
+      "tzTimezone": "E",
+      "type": "Europe/Athens",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A321",
+      "iataId": "321",
+      "icaoId": "A321"
+    },
+    "airline": {
+      "id": "130",
+      "name": "Aeroflot Russian Airlines",
+      "alias": null,
+      "iataId": "SU",
+      "icaoId": "AFL",
+      "callSign": "AEROFLOT",
+      "country": "Russia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 729
+  },
+  {
+    "destination": {
+      "id": "2983",
+      "name": "Tashkent International Airport",
+      "city": "Tashkent",
+      "country": "Uzbekistan",
+      "iataId": "TAS",
+      "icaoId": "UTTT",
+      "latitude": 41.257900238,
+      "longitude": 69.2811965942,
+      "timezone": 1417,
+      "dst": "5",
+      "tzTimezone": "U",
+      "type": "Asia/Samarkand",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A321",
+      "iataId": "321",
+      "icaoId": "A321"
+    },
+    "airline": {
+      "id": "596",
+      "name": "Alitalia",
+      "alias": null,
+      "iataId": "AZ",
+      "icaoId": "AZA",
+      "callSign": "ALITALIA",
+      "country": "Italy",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 921
+  },
+  {
+    "destination": {
+      "id": "2972",
+      "name": "Nizhnevartovsk Airport",
+      "city": "Nizhnevartovsk",
+      "country": "Russia",
+      "iataId": "NJC",
+      "icaoId": "USNN",
+      "latitude": 60.94929885864258,
+      "longitude": 76.48359680175781,
+      "timezone": 177,
+      "dst": "5",
+      "tzTimezone": "N",
+      "type": "Asia/Yekaterinburg",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A321",
+      "iataId": "321",
+      "icaoId": "A321"
+    },
+    "airline": {
+      "id": "130",
+      "name": "Aeroflot Russian Airlines",
+      "alias": null,
+      "iataId": "SU",
+      "icaoId": "AFL",
+      "callSign": "AEROFLOT",
+      "country": "Russia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 651
+  },
+  {
+    "destination": {
+      "id": "193",
+      "name": "Lester B. Pearson International Airport",
+      "city": "Toronto",
+      "country": "Canada",
+      "iataId": "YYZ",
+      "icaoId": "CYYZ",
+      "latitude": 43.6772003174,
+      "longitude": -79.63059997559999,
+      "timezone": 569,
+      "dst": "-5",
+      "tzTimezone": "A",
+      "type": "America/Toronto",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Boeing 767-300",
+      "iataId": "763",
+      "icaoId": "B763"
+    },
+    "airline": {
+      "id": "130",
+      "name": "Aeroflot Russian Airlines",
+      "alias": null,
+      "iataId": "SU",
+      "icaoId": "AFL",
+      "callSign": "AEROFLOT",
+      "country": "Russia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 987
+  },
+  {
+    "destination": {
+      "id": "2962",
+      "name": "Mineralnyye Vody Airport",
+      "city": "Mineralnye Vody",
+      "country": "Russia",
+      "iataId": "MRV",
+      "icaoId": "URMM",
+      "latitude": 44.225101470947266,
+      "longitude": 43.08190155029297,
+      "timezone": 1054,
+      "dst": "3",
+      "tzTimezone": "N",
+      "type": "Europe/Moscow",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A321",
+      "iataId": "321",
+      "icaoId": "A321"
+    },
+    "airline": {
+      "id": "130",
+      "name": "Aeroflot Russian Airlines",
+      "alias": null,
+      "iataId": "SU",
+      "icaoId": "AFL",
+      "callSign": "AEROFLOT",
+      "country": "Russia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 675
+  },
+  {
+    "destination": {
+      "id": "2935",
+      "name": "Chita-Kadala Airport",
+      "city": "Chita",
+      "country": "Russia",
+      "iataId": "HTA",
+      "icaoId": "UIAA",
+      "latitude": 52.026299,
+      "longitude": 113.306,
+      "timezone": 2272,
+      "dst": "9",
+      "tzTimezone": "N",
+      "type": "Asia/Yakutsk",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Boeing 737-800",
+      "iataId": "738",
+      "icaoId": "B738"
+    },
+    "airline": {
+      "id": "130",
+      "name": "Aeroflot Russian Airlines",
+      "alias": null,
+      "iataId": "SU",
+      "icaoId": "AFL",
+      "callSign": "AEROFLOT",
+      "country": "Russia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 92
+  },
+  {
+    "destination": {
+      "id": "2956",
+      "name": "Barnaul Airport",
+      "city": "Barnaul",
+      "country": "Russia",
+      "iataId": "BAX",
+      "icaoId": "UNBB",
+      "latitude": 53.363800048828125,
+      "longitude": 83.53849792480469,
+      "timezone": 837,
+      "dst": "7",
+      "tzTimezone": "N",
+      "type": "Asia/Krasnoyarsk",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A320",
+      "iataId": "320",
+      "icaoId": "A320"
+    },
+    "airline": {
+      "id": "130",
+      "name": "Aeroflot Russian Airlines",
+      "alias": null,
+      "iataId": "SU",
+      "icaoId": "AFL",
+      "callSign": "AEROFLOT",
+      "country": "Russia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 914
+  },
+  {
+    "destination": {
+      "id": "1688",
+      "name": "Antalya International Airport",
+      "city": "Antalya",
+      "country": "Turkey",
+      "iataId": "AYT",
+      "icaoId": "LTAI",
+      "latitude": 36.898701,
+      "longitude": 30.800501,
+      "timezone": 177,
+      "dst": "3",
+      "tzTimezone": "E",
+      "type": "Europe/Istanbul",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A321",
+      "iataId": "321",
+      "icaoId": "A321"
+    },
+    "airline": {
+      "id": "5559",
+      "name": "Maldivian Air Taxi",
+      "alias": null,
+      "iataId": "8Q",
+      "icaoId": null,
+      "callSign": null,
+      "country": "Maldives",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 526
+  },
+  {
+    "destination": {
+      "id": "2958",
+      "name": "Omsk Central Airport",
+      "city": "Omsk",
+      "country": "Russia",
+      "iataId": "OMS",
+      "icaoId": "UNOO",
+      "latitude": 54.96699905395508,
+      "longitude": 73.31050109863281,
+      "timezone": 311,
+      "dst": "6",
+      "tzTimezone": "N",
+      "type": "Asia/Omsk",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A320",
+      "iataId": "320",
+      "icaoId": "A320"
+    },
+    "airline": {
+      "id": "130",
+      "name": "Aeroflot Russian Airlines",
+      "alias": null,
+      "iataId": "SU",
+      "icaoId": "AFL",
+      "callSign": "AEROFLOT",
+      "country": "Russia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 369
+  },
+  {
+    "destination": {
+      "id": "507",
+      "name": "London Heathrow Airport",
+      "city": "London",
+      "country": "United Kingdom",
+      "iataId": "LHR",
+      "icaoId": "EGLL",
+      "latitude": 51.4706,
+      "longitude": -0.461941,
+      "timezone": 83,
+      "dst": "0",
+      "tzTimezone": "E",
+      "type": "Europe/London",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A320",
+      "iataId": "320",
+      "icaoId": "A320"
+    },
+    "airline": {
+      "id": "130",
+      "name": "Aeroflot Russian Airlines",
+      "alias": null,
+      "iataId": "SU",
+      "icaoId": "AFL",
+      "callSign": "AEROFLOT",
+      "country": "Russia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 742
+  },
+  {
+    "destination": {
+      "id": "3714",
+      "name": "Washington Dulles International Airport",
+      "city": "Washington",
+      "country": "United States",
+      "iataId": "IAD",
+      "icaoId": "KIAD",
+      "latitude": 38.94449997,
+      "longitude": -77.45580292,
+      "timezone": 312,
+      "dst": "-5",
+      "tzTimezone": "A",
+      "type": "America/New_York",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Boeing 767-300",
+      "iataId": "763",
+      "icaoId": "B763"
+    },
+    "airline": {
+      "id": "130",
+      "name": "Aeroflot Russian Airlines",
+      "alias": null,
+      "iataId": "SU",
+      "icaoId": "AFL",
+      "callSign": "AEROFLOT",
+      "country": "Russia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 874
+  },
+  {
+    "destination": {
+      "id": "1218",
+      "name": "Barcelona International Airport",
+      "city": "Barcelona",
+      "country": "Spain",
+      "iataId": "BCN",
+      "icaoId": "LEBL",
+      "latitude": 41.297100067139,
+      "longitude": 2.0784599781036,
+      "timezone": 12,
+      "dst": "1",
+      "tzTimezone": "E",
+      "type": "Europe/Madrid",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A321",
+      "iataId": "321",
+      "icaoId": "A321"
+    },
+    "airline": {
+      "id": "130",
+      "name": "Aeroflot Russian Airlines",
+      "alias": null,
+      "iataId": "SU",
+      "icaoId": "AFL",
+      "callSign": "AEROFLOT",
+      "country": "Russia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 85
+  },
+  {
+    "destination": {
+      "id": "4297",
+      "name": "Bogashevo Airport",
+      "city": "Tomsk",
+      "country": "Russia",
+      "iataId": "TOF",
+      "icaoId": "UNTT",
+      "latitude": 56.380298614502,
+      "longitude": 85.208297729492,
+      "timezone": 597,
+      "dst": "7",
+      "tzTimezone": "N",
+      "type": "Asia/Krasnoyarsk",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Boeing 737-800",
+      "iataId": "738",
+      "icaoId": "B738"
+    },
+    "airline": {
+      "id": "130",
+      "name": "Aeroflot Russian Airlines",
+      "alias": null,
+      "iataId": "SU",
+      "icaoId": "AFL",
+      "callSign": "AEROFLOT",
+      "country": "Russia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 457
+  },
+  {
+    "destination": {
+      "id": "1613",
+      "name": "Vienna International Airport",
+      "city": "Vienna",
+      "country": "Austria",
+      "iataId": "VIE",
+      "icaoId": "LOWW",
+      "latitude": 48.110298156738,
+      "longitude": 16.569700241089,
+      "timezone": 600,
+      "dst": "1",
+      "tzTimezone": "E",
+      "type": "Europe/Vienna",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A321",
+      "iataId": "321",
+      "icaoId": "A321"
+    },
+    "airline": {
+      "id": "130",
+      "name": "Aeroflot Russian Airlines",
+      "alias": null,
+      "iataId": "SU",
+      "icaoId": "AFL",
+      "callSign": "AEROFLOT",
+      "country": "Russia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 526
+  },
+  {
+    "destination": {
+      "id": "4330",
+      "name": "Imam Khomeini International Airport",
+      "city": "Tehran",
+      "country": "Iran",
+      "iataId": "IKA",
+      "icaoId": "OIIE",
+      "latitude": 35.416099548339844,
+      "longitude": 51.152198791503906,
+      "timezone": 3305,
+      "dst": "3.5",
+      "tzTimezone": "E",
+      "type": "Asia/Tehran",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A320",
+      "iataId": "320",
+      "icaoId": "A320"
+    },
+    "airline": {
+      "id": "130",
+      "name": "Aeroflot Russian Airlines",
+      "alias": null,
+      "iataId": "SU",
+      "icaoId": "AFL",
+      "callSign": "AEROFLOT",
+      "country": "Russia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 988
+  },
+  {
+    "destination": {
+      "id": "3885",
+      "name": "Suvarnabhumi Airport",
+      "city": "Bangkok",
+      "country": "Thailand",
+      "iataId": "BKK",
+      "icaoId": "VTBS",
+      "latitude": 13.681099891662598,
+      "longitude": 100.74700164794922,
+      "timezone": 5,
+      "dst": "7",
+      "tzTimezone": "U",
+      "type": "Asia/Bangkok",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A330-300",
+      "iataId": "333",
+      "icaoId": "A333"
+    },
+    "airline": {
+      "id": "130",
+      "name": "Aeroflot Russian Airlines",
+      "alias": null,
+      "iataId": "SU",
+      "icaoId": "AFL",
+      "callSign": "AEROFLOT",
+      "country": "Russia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 899
+  },
+  {
+    "destination": {
+      "id": "669",
+      "name": "John Paul II International Airport Kraków-Balice Airport",
+      "city": "Krakow",
+      "country": "Poland",
+      "iataId": "KRK",
+      "icaoId": "EPKK",
+      "latitude": 50.077701568603516,
+      "longitude": 19.784799575805664,
+      "timezone": 791,
+      "dst": "1",
+      "tzTimezone": "E",
+      "type": "Europe/Warsaw",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Sukhoi Superjet 100-95",
+      "iataId": "SU9",
+      "icaoId": "SU95"
+    },
+    "airline": {
+      "id": "130",
+      "name": "Aeroflot Russian Airlines",
+      "alias": null,
+      "iataId": "SU",
+      "icaoId": "AFL",
+      "callSign": "AEROFLOT",
+      "country": "Russia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 514
+  },
+  {
+    "destination": {
+      "id": "1354",
+      "name": "Nice-Côte d'Azur Airport",
+      "city": "Nice",
+      "country": "France",
+      "iataId": "NCE",
+      "icaoId": "LFMN",
+      "latitude": 43.6584014893,
+      "longitude": 7.215869903560001,
+      "timezone": 12,
+      "dst": "1",
+      "tzTimezone": "E",
+      "type": "Europe/Paris",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A321",
+      "iataId": "321",
+      "icaoId": "A321"
+    },
+    "airline": {
+      "id": "130",
+      "name": "Aeroflot Russian Airlines",
+      "alias": null,
+      "iataId": "SU",
+      "icaoId": "AFL",
+      "callSign": "AEROFLOT",
+      "country": "Russia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 203
+  },
+  {
+    "destination": {
+      "id": "1056",
+      "name": "Tenerife South Airport",
+      "city": "Tenerife",
+      "country": "Spain",
+      "iataId": "TFS",
+      "icaoId": "GCTS",
+      "latitude": 28.044500351,
+      "longitude": -16.5725002289,
+      "timezone": 209,
+      "dst": "0",
+      "tzTimezone": "E",
+      "type": "Atlantic/Canary",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A330-300",
+      "iataId": "333",
+      "icaoId": "A333"
+    },
+    "airline": {
+      "id": "130",
+      "name": "Aeroflot Russian Airlines",
+      "alias": null,
+      "iataId": "SU",
+      "icaoId": "AFL",
+      "callSign": "AEROFLOT",
+      "country": "Russia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 765
+  },
+  {
+    "destination": {
+      "id": "1489",
+      "name": "Budapest Ferenc Liszt International Airport",
+      "city": "Budapest",
+      "country": "Hungary",
+      "iataId": "BUD",
+      "icaoId": "LHBP",
+      "latitude": 47.436901092499994,
+      "longitude": 19.255599975599996,
+      "timezone": 495,
+      "dst": "1",
+      "tzTimezone": "E",
+      "type": "Europe/Budapest",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A320",
+      "iataId": "320",
+      "icaoId": "A320"
+    },
+    "airline": {
+      "id": "130",
+      "name": "Aeroflot Russian Airlines",
+      "alias": null,
+      "iataId": "SU",
+      "icaoId": "AFL",
+      "callSign": "AEROFLOT",
+      "country": "Russia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 156
+  },
+  {
+    "destination": {
+      "id": "1551",
+      "name": "Venice Marco Polo Airport",
+      "city": "Venice",
+      "country": "Italy",
+      "iataId": "VCE",
+      "icaoId": "LIPZ",
+      "latitude": 45.505299,
+      "longitude": 12.3519,
+      "timezone": 7,
+      "dst": "1",
+      "tzTimezone": "E",
+      "type": "Europe/Rome",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A321",
+      "iataId": "321",
+      "icaoId": "A321"
+    },
+    "airline": {
+      "id": "596",
+      "name": "Alitalia",
+      "alias": null,
+      "iataId": "AZ",
+      "icaoId": "AZA",
+      "callSign": "ALITALIA",
+      "country": "Italy",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 709
+  },
+  {
+    "destination": {
+      "id": "2993",
+      "name": "Kurumoch International Airport",
+      "city": "Samara",
+      "country": "Russia",
+      "iataId": "KUF",
+      "icaoId": "UWWW",
+      "latitude": 53.504901885986,
+      "longitude": 50.16429901123,
+      "timezone": 477,
+      "dst": "4",
+      "tzTimezone": "N",
+      "type": "Europe/Samara",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A319",
+      "iataId": "319",
+      "icaoId": "A319"
+    },
+    "airline": {
+      "id": "130",
+      "name": "Aeroflot Russian Airlines",
+      "alias": null,
+      "iataId": "SU",
+      "icaoId": "AFL",
+      "callSign": "AEROFLOT",
+      "country": "Russia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 823
+  },
+  {
+    "destination": {
+      "id": "421",
+      "name": "Helsinki Vantaa Airport",
+      "city": "Helsinki",
+      "country": "Finland",
+      "iataId": "HEL",
+      "icaoId": "EFHK",
+      "latitude": 60.317199707031,
+      "longitude": 24.963300704956,
+      "timezone": 179,
+      "dst": "2",
+      "tzTimezone": "E",
+      "type": "Europe/Helsinki",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A319",
+      "iataId": "319",
+      "icaoId": "A319"
+    },
+    "airline": {
+      "id": "2350",
+      "name": "Finnair",
+      "alias": null,
+      "iataId": "AY",
+      "icaoId": "FIN",
+      "callSign": "FINNAIR",
+      "country": "Finland",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 787
+  },
+  {
+    "destination": {
+      "id": "1579",
+      "name": "Karlovy Vary International Airport",
+      "city": "Karlovy Vary",
+      "country": "Czech Republic",
+      "iataId": "KLV",
+      "icaoId": "LKKV",
+      "latitude": 50.202999114990234,
+      "longitude": 12.914999961853027,
+      "timezone": 1989,
+      "dst": "1",
+      "tzTimezone": "E",
+      "type": "Europe/Prague",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A320",
+      "iataId": "320",
+      "icaoId": "A320"
+    },
+    "airline": {
+      "id": "130",
+      "name": "Aeroflot Russian Airlines",
+      "alias": null,
+      "iataId": "SU",
+      "icaoId": "AFL",
+      "callSign": "AEROFLOT",
+      "country": "Russia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 191
+  },
+  {
+    "destination": {
+      "id": "2948",
+      "name": "Pulkovo Airport",
+      "city": "St. Petersburg",
+      "country": "Russia",
+      "iataId": "LED",
+      "icaoId": "ULLI",
+      "latitude": 59.80030059814453,
+      "longitude": 30.262500762939453,
+      "timezone": 78,
+      "dst": "3",
+      "tzTimezone": "N",
+      "type": "Europe/Moscow",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A321",
+      "iataId": "321",
+      "icaoId": "A321"
+    },
+    "airline": {
+      "id": "130",
+      "name": "Aeroflot Russian Airlines",
+      "alias": null,
+      "iataId": "SU",
+      "icaoId": "AFL",
+      "callSign": "AEROFLOT",
+      "country": "Russia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 605
+  },
+  {
+    "destination": {
+      "id": "1128",
+      "name": "Cairo International Airport",
+      "city": "Cairo",
+      "country": "Egypt",
+      "iataId": "CAI",
+      "icaoId": "HECA",
+      "latitude": 30.12190055847168,
+      "longitude": 31.40559959411621,
+      "timezone": 382,
+      "dst": "2",
+      "tzTimezone": "U",
+      "type": "Africa/Cairo",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A320",
+      "iataId": "320",
+      "icaoId": "A320"
+    },
+    "airline": {
+      "id": "130",
+      "name": "Aeroflot Russian Airlines",
+      "alias": null,
+      "iataId": "SU",
+      "icaoId": "AFL",
+      "callSign": "AEROFLOT",
+      "country": "Russia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 537
+  },
+  {
+    "destination": {
+      "id": "2963",
+      "name": "Stavropol Shpakovskoye Airport",
+      "city": "Stavropol",
+      "country": "Russia",
+      "iataId": "STW",
+      "icaoId": "URMT",
+      "latitude": 45.10919952392578,
+      "longitude": 42.11280059814453,
+      "timezone": 1486,
+      "dst": "3",
+      "tzTimezone": "N",
+      "type": "Europe/Moscow",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A319",
+      "iataId": "319",
+      "icaoId": "A319"
+    },
+    "airline": {
+      "id": "130",
+      "name": "Aeroflot Russian Airlines",
+      "alias": null,
+      "iataId": "SU",
+      "icaoId": "AFL",
+      "callSign": "AEROFLOT",
+      "country": "Russia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 343
+  },
+  {
+    "destination": {
+      "id": "2964",
+      "name": "Rostov-on-Don Airport",
+      "city": "Rostov",
+      "country": "Russia",
+      "iataId": "ROV",
+      "icaoId": "URRR",
+      "latitude": 47.2582015991,
+      "longitude": 39.8180999756,
+      "timezone": 280,
+      "dst": "3",
+      "tzTimezone": "N",
+      "type": "Europe/Moscow",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A319",
+      "iataId": "319",
+      "icaoId": "A319"
+    },
+    "airline": {
+      "id": "130",
+      "name": "Aeroflot Russian Airlines",
+      "alias": null,
+      "iataId": "SU",
+      "icaoId": "AFL",
+      "callSign": "AEROFLOT",
+      "country": "Russia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 665
+  },
+  {
+    "destination": {
+      "id": "3380",
+      "name": "Chinggis Khaan International Airport",
+      "city": "Ulan Bator",
+      "country": "Mongolia",
+      "iataId": "ULN",
+      "icaoId": "ZMUB",
+      "latitude": 47.843101501464844,
+      "longitude": 106.76699829101562,
+      "timezone": 4364,
+      "dst": "8",
+      "tzTimezone": "U",
+      "type": "Asia/Ulaanbaatar",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Boeing 767-300",
+      "iataId": "763",
+      "icaoId": "B763"
+    },
+    "airline": {
+      "id": "3354",
+      "name": "MIAT Mongolian Airlines",
+      "alias": null,
+      "iataId": "OM",
+      "icaoId": "MGL",
+      "callSign": "MONGOL AIR",
+      "country": "Mongolia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 16
+  },
+  {
+    "destination": {
+      "id": "2932",
+      "name": "Yelizovo Airport",
+      "city": "Petropavlovsk",
+      "country": "Russia",
+      "iataId": "PKC",
+      "icaoId": "UHPP",
+      "latitude": 53.16790008544922,
+      "longitude": 158.45399475097656,
+      "timezone": 131,
+      "dst": "12",
+      "tzTimezone": "N",
+      "type": "Asia/Anadyr",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Boeing 777-300ER",
+      "iataId": "77W",
+      "icaoId": "B77W"
+    },
+    "airline": {
+      "id": "130",
+      "name": "Aeroflot Russian Airlines",
+      "alias": null,
+      "iataId": "SU",
+      "icaoId": "AFL",
+      "callSign": "AEROFLOT",
+      "country": "Russia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 209
+  },
+  {
+    "destination": {
+      "id": "4364",
+      "name": "Novy Urengoy Airport",
+      "city": "Novy Urengoy",
+      "country": "Russia",
+      "iataId": "NUX",
+      "icaoId": "USMU",
+      "latitude": 66.06939697265625,
+      "longitude": 76.52030181884766,
+      "timezone": 210,
+      "dst": "5",
+      "tzTimezone": "N",
+      "type": "Asia/Yekaterinburg",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A320",
+      "iataId": "320",
+      "icaoId": "A320"
+    },
+    "airline": {
+      "id": "130",
+      "name": "Aeroflot Russian Airlines",
+      "alias": null,
+      "iataId": "SU",
+      "icaoId": "AFL",
+      "callSign": "AEROFLOT",
+      "country": "Russia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 986
+  },
+  {
+    "destination": {
+      "id": "302",
+      "name": "Brussels Airport",
+      "city": "Brussels",
+      "country": "Belgium",
+      "iataId": "BRU",
+      "icaoId": "EBBR",
+      "latitude": 50.901401519800004,
+      "longitude": 4.48443984985,
+      "timezone": 184,
+      "dst": "1",
+      "tzTimezone": "E",
+      "type": "Europe/Brussels",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A320",
+      "iataId": "320",
+      "icaoId": "A320"
+    },
+    "airline": {
+      "id": "130",
+      "name": "Aeroflot Russian Airlines",
+      "alias": null,
+      "iataId": "SU",
+      "icaoId": "AFL",
+      "callSign": "AEROFLOT",
+      "country": "Russia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 126
+  },
+  {
+    "destination": {
+      "id": "351",
+      "name": "Berlin-Tegel International Airport",
+      "city": "Berlin",
+      "country": "Germany",
+      "iataId": "TXL",
+      "icaoId": "EDDT",
+      "latitude": 52.5597000122,
+      "longitude": 13.2876996994,
+      "timezone": 122,
+      "dst": "1",
+      "tzTimezone": "E",
+      "type": "Europe/Berlin",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Boeing 767-300",
+      "iataId": "763",
+      "icaoId": "B763"
+    },
+    "airline": {
+      "id": "3354",
+      "name": "MIAT Mongolian Airlines",
+      "alias": null,
+      "iataId": "OM",
+      "icaoId": "MGL",
+      "callSign": "MONGOL AIR",
+      "country": "Mongolia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 857
+  },
+  {
+    "destination": {
+      "id": "337",
+      "name": "Berlin-Schönefeld International Airport",
+      "city": "Berlin",
+      "country": "Germany",
+      "iataId": "SXF",
+      "icaoId": "EDDB",
+      "latitude": 52.380001068115,
+      "longitude": 13.522500038147,
+      "timezone": 157,
+      "dst": "1",
+      "tzTimezone": "E",
+      "type": "Europe/Berlin",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A320",
+      "iataId": "320",
+      "icaoId": "A320"
+    },
+    "airline": {
+      "id": "130",
+      "name": "Aeroflot Russian Airlines",
+      "alias": null,
+      "iataId": "SU",
+      "icaoId": "AFL",
+      "callSign": "AEROFLOT",
+      "country": "Russia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 16
+  },
+  {
+    "destination": {
+      "id": "1382",
+      "name": "Charles de Gaulle International Airport",
+      "city": "Paris",
+      "country": "France",
+      "iataId": "CDG",
+      "icaoId": "LFPG",
+      "latitude": 49.0127983093,
+      "longitude": 2.54999995232,
+      "timezone": 392,
+      "dst": "1",
+      "tzTimezone": "E",
+      "type": "Europe/Paris",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A320",
+      "iataId": "320",
+      "icaoId": "A320"
+    },
+    "airline": {
+      "id": "130",
+      "name": "Aeroflot Russian Airlines",
+      "alias": null,
+      "iataId": "SU",
+      "icaoId": "AFL",
+      "callSign": "AEROFLOT",
+      "country": "Russia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 726
+  },
+  {
+    "destination": {
+      "id": "1074",
+      "name": "Mohammed V International Airport",
+      "city": "Casablanca",
+      "country": "Morocco",
+      "iataId": "CMN",
+      "icaoId": "GMMN",
+      "latitude": 33.36750030517578,
+      "longitude": -7.589970111846924,
+      "timezone": 656,
+      "dst": "0",
+      "tzTimezone": "N",
+      "type": "Africa/Casablanca",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Boeing 737-800",
+      "iataId": "738",
+      "icaoId": "B738"
+    },
+    "airline": {
+      "id": "4248",
+      "name": "Royal Air Maroc",
+      "alias": null,
+      "iataId": "AT",
+      "icaoId": "RAM",
+      "callSign": "ROYALAIR MAROC",
+      "country": "Morocco",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 409
+  },
+  {
+    "destination": {
+      "id": "2933",
+      "name": "Yuzhno-Sakhalinsk Airport",
+      "city": "Yuzhno-sakhalinsk",
+      "country": "Russia",
+      "iataId": "UUS",
+      "icaoId": "UHSS",
+      "latitude": 46.88869857788086,
+      "longitude": 142.71800231933594,
+      "timezone": 59,
+      "dst": "11",
+      "tzTimezone": "N",
+      "type": "Asia/Srednekolymsk",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A330-200",
+      "iataId": "332",
+      "icaoId": "A332"
+    },
+    "airline": {
+      "id": "130",
+      "name": "Aeroflot Russian Airlines",
+      "alias": null,
+      "iataId": "SU",
+      "icaoId": "AFL",
+      "callSign": "AEROFLOT",
+      "country": "Russia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 424
+  },
+  {
+    "destination": {
+      "id": "2968",
+      "name": "Chelyabinsk Balandino Airport",
+      "city": "Chelyabinsk",
+      "country": "Russia",
+      "iataId": "CEK",
+      "icaoId": "USCC",
+      "latitude": 55.305801,
+      "longitude": 61.5033,
+      "timezone": 769,
+      "dst": "5",
+      "tzTimezone": "N",
+      "type": "Asia/Yekaterinburg",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A320",
+      "iataId": "320",
+      "icaoId": "A320"
+    },
+    "airline": {
+      "id": "130",
+      "name": "Aeroflot Russian Airlines",
+      "alias": null,
+      "iataId": "SU",
+      "icaoId": "AFL",
+      "callSign": "AEROFLOT",
+      "country": "Russia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 815
+  },
+  {
+    "destination": {
+      "id": "1538",
+      "name": "Bologna Guglielmo Marconi Airport",
+      "city": "Bologna",
+      "country": "Italy",
+      "iataId": "BLQ",
+      "icaoId": "LIPE",
+      "latitude": 44.5354,
+      "longitude": 11.2887,
+      "timezone": 123,
+      "dst": "1",
+      "tzTimezone": "E",
+      "type": "Europe/Rome",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A320",
+      "iataId": "320",
+      "icaoId": "A320"
+    },
+    "airline": {
+      "id": "596",
+      "name": "Alitalia",
+      "alias": null,
+      "iataId": "AZ",
+      "icaoId": "AZA",
+      "callSign": "ALITALIA",
+      "country": "Italy",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 489
+  },
+  {
+    "destination": {
+      "id": "679",
+      "name": "Warsaw Chopin Airport",
+      "city": "Warsaw",
+      "country": "Poland",
+      "iataId": "WAW",
+      "icaoId": "EPWA",
+      "latitude": 52.1656990051,
+      "longitude": 20.967100143399996,
+      "timezone": 362,
+      "dst": "1",
+      "tzTimezone": "E",
+      "type": "Europe/Warsaw",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A320",
+      "iataId": "320",
+      "icaoId": "A320"
+    },
+    "airline": {
+      "id": "130",
+      "name": "Aeroflot Russian Airlines",
+      "alias": null,
+      "iataId": "SU",
+      "icaoId": "AFL",
+      "callSign": "AEROFLOT",
+      "country": "Russia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 365
+  },
+  {
+    "destination": {
+      "id": "346",
+      "name": "Munich International Airport",
+      "city": "Munich",
+      "country": "Germany",
+      "iataId": "MUC",
+      "icaoId": "EDDM",
+      "latitude": 48.353801727295,
+      "longitude": 11.786100387573,
+      "timezone": 1487,
+      "dst": "1",
+      "tzTimezone": "E",
+      "type": "Europe/Berlin",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A320",
+      "iataId": "320",
+      "icaoId": "A320"
+    },
+    "airline": {
+      "id": "130",
+      "name": "Aeroflot Russian Airlines",
+      "alias": null,
+      "iataId": "SU",
+      "icaoId": "AFL",
+      "callSign": "AEROFLOT",
+      "country": "Russia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 111
+  },
+  {
+    "destination": {
+      "id": "3093",
+      "name": "Indira Gandhi International Airport",
+      "city": "Delhi",
+      "country": "India",
+      "iataId": "DEL",
+      "icaoId": "VIDP",
+      "latitude": 28.566499710083008,
+      "longitude": 77.10310363769531,
+      "timezone": 777,
+      "dst": "5.5",
+      "tzTimezone": "N",
+      "type": "Asia/Calcutta",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A330-200",
+      "iataId": "332",
+      "icaoId": "A332"
+    },
+    "airline": {
+      "id": "130",
+      "name": "Aeroflot Russian Airlines",
+      "alias": null,
+      "iataId": "SU",
+      "icaoId": "AFL",
+      "callSign": "AEROFLOT",
+      "country": "Russia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 456
+  },
+  {
+    "destination": {
+      "id": "2941",
+      "name": "Dnipropetrovsk International Airport",
+      "city": "Dnepropetrovsk",
+      "country": "Ukraine",
+      "iataId": "DNK",
+      "icaoId": "UKDD",
+      "latitude": 48.357200622558594,
+      "longitude": 35.10060119628906,
+      "timezone": 481,
+      "dst": "2",
+      "tzTimezone": "E",
+      "type": "Europe/Kiev",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Sukhoi Superjet 100-95",
+      "iataId": "SU9",
+      "icaoId": "SU95"
+    },
+    "airline": {
+      "id": "130",
+      "name": "Aeroflot Russian Airlines",
+      "alias": null,
+      "iataId": "SU",
+      "icaoId": "AFL",
+      "callSign": "AEROFLOT",
+      "country": "Russia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 929
+  },
+  {
+    "destination": {
+      "id": "4078",
+      "name": "Tolmachevo Airport",
+      "city": "Novosibirsk",
+      "country": "Russia",
+      "iataId": "OVB",
+      "icaoId": "UNNT",
+      "latitude": 55.012599945068,
+      "longitude": 82.650703430176,
+      "timezone": 365,
+      "dst": "7",
+      "tzTimezone": "N",
+      "type": "Asia/Krasnoyarsk",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A321",
+      "iataId": "321",
+      "icaoId": "A321"
+    },
+    "airline": {
+      "id": "130",
+      "name": "Aeroflot Russian Airlines",
+      "alias": null,
+      "iataId": "SU",
+      "icaoId": "AFL",
+      "callSign": "AEROFLOT",
+      "country": "Russia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 278
+  },
+  {
+    "destination": {
+      "id": "1606",
+      "name": "Malta International Airport",
+      "city": "Malta",
+      "country": "Malta",
+      "iataId": "MLA",
+      "icaoId": "LMML",
+      "latitude": 35.857498,
+      "longitude": 14.4775,
+      "timezone": 300,
+      "dst": "1",
+      "tzTimezone": "E",
+      "type": "Europe/Malta",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A319",
+      "iataId": "319",
+      "icaoId": "A319"
+    },
+    "airline": {
+      "id": "130",
+      "name": "Aeroflot Russian Airlines",
+      "alias": null,
+      "iataId": "SU",
+      "icaoId": "AFL",
+      "callSign": "AEROFLOT",
+      "country": "Russia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 211
+  },
+  {
+    "destination": {
+      "id": "2940",
+      "name": "Donetsk International Airport",
+      "city": "Donetsk",
+      "country": "Ukraine",
+      "iataId": "DOK",
+      "icaoId": "UKCC",
+      "latitude": 48.07360076904297,
+      "longitude": 37.73970031738281,
+      "timezone": 791,
+      "dst": "2",
+      "tzTimezone": "E",
+      "type": "Europe/Kiev",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Sukhoi Superjet 100-95",
+      "iataId": "SU9",
+      "icaoId": "SU95"
+    },
+    "airline": {
+      "id": "130",
+      "name": "Aeroflot Russian Airlines",
+      "alias": null,
+      "iataId": "SU",
+      "icaoId": "AFL",
+      "callSign": "AEROFLOT",
+      "country": "Russia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 256
+  },
+  {
+    "destination": {
+      "id": "338",
+      "name": "Dresden Airport",
+      "city": "Dresden",
+      "country": "Germany",
+      "iataId": "DRS",
+      "icaoId": "EDDC",
+      "latitude": 51.1328010559082,
+      "longitude": 13.767200469970703,
+      "timezone": 755,
+      "dst": "1",
+      "tzTimezone": "E",
+      "type": "Europe/Berlin",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Sukhoi Superjet 100-95",
+      "iataId": "SU9",
+      "icaoId": "SU95"
+    },
+    "airline": {
+      "id": "130",
+      "name": "Aeroflot Russian Airlines",
+      "alias": null,
+      "iataId": "SU",
+      "icaoId": "AFL",
+      "callSign": "AEROFLOT",
+      "country": "Russia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 903
+  },
+  {
+    "destination": {
+      "id": "3953",
+      "name": "Riga International Airport",
+      "city": "Riga",
+      "country": "Latvia",
+      "iataId": "RIX",
+      "icaoId": "EVRA",
+      "latitude": 56.92359924316406,
+      "longitude": 23.971099853515625,
+      "timezone": 36,
+      "dst": "2",
+      "tzTimezone": "E",
+      "type": "Europe/Riga",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A320",
+      "iataId": "320",
+      "icaoId": "A320"
+    },
+    "airline": {
+      "id": "130",
+      "name": "Aeroflot Russian Airlines",
+      "alias": null,
+      "iataId": "SU",
+      "icaoId": "AFL",
+      "callSign": "AEROFLOT",
+      "country": "Russia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 10
+  },
+  {
+    "destination": {
+      "id": "345",
+      "name": "Düsseldorf International Airport",
+      "city": "Duesseldorf",
+      "country": "Germany",
+      "iataId": "DUS",
+      "icaoId": "EDDL",
+      "latitude": 51.28950119018555,
+      "longitude": 6.766779899597168,
+      "timezone": 147,
+      "dst": "1",
+      "tzTimezone": "E",
+      "type": "Europe/Berlin",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A320",
+      "iataId": "320",
+      "icaoId": "A320"
+    },
+    "airline": {
+      "id": "130",
+      "name": "Aeroflot Russian Airlines",
+      "alias": null,
+      "iataId": "SU",
+      "icaoId": "AFL",
+      "callSign": "AEROFLOT",
+      "country": "Russia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 757
+  },
+  {
+    "destination": {
+      "id": "3205",
+      "name": "Tan Son Nhat International Airport",
+      "city": "Ho Chi Minh City",
+      "country": "Vietnam",
+      "iataId": "SGN",
+      "icaoId": "VVTS",
+      "latitude": 10.8187999725,
+      "longitude": 106.652000427,
+      "timezone": 33,
+      "dst": "7",
+      "tzTimezone": "U",
+      "type": "Asia/Saigon",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A330-300",
+      "iataId": "333",
+      "icaoId": "A333"
+    },
+    "airline": {
+      "id": "130",
+      "name": "Aeroflot Russian Airlines",
+      "alias": null,
+      "iataId": "SU",
+      "icaoId": "AFL",
+      "callSign": "AEROFLOT",
+      "country": "Russia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 472
+  },
+  {
+    "destination": {
+      "id": "350",
+      "name": "Stuttgart Airport",
+      "city": "Stuttgart",
+      "country": "Germany",
+      "iataId": "STR",
+      "icaoId": "EDDS",
+      "latitude": 48.689899444599995,
+      "longitude": 9.22196006775,
+      "timezone": 1276,
+      "dst": "1",
+      "tzTimezone": "E",
+      "type": "Europe/Berlin",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A320",
+      "iataId": "320",
+      "icaoId": "A320"
+    },
+    "airline": {
+      "id": "130",
+      "name": "Aeroflot Russian Airlines",
+      "alias": null,
+      "iataId": "SU",
+      "icaoId": "AFL",
+      "callSign": "AEROFLOT",
+      "country": "Russia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 831
+  },
+  {
+    "destination": {
+      "id": "3964",
+      "name": "Zvartnots International Airport",
+      "city": "Yerevan",
+      "country": "Armenia",
+      "iataId": "EVN",
+      "icaoId": "UDYZ",
+      "latitude": 40.1473007202,
+      "longitude": 44.3959007263,
+      "timezone": 2838,
+      "dst": "4",
+      "tzTimezone": "E",
+      "type": "Asia/Yerevan",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A321",
+      "iataId": "321",
+      "icaoId": "A321"
+    },
+    "airline": {
+      "id": "130",
+      "name": "Aeroflot Russian Airlines",
+      "alias": null,
+      "iataId": "SU",
+      "icaoId": "AFL",
+      "callSign": "AEROFLOT",
+      "country": "Russia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 479
+  },
+  {
+    "destination": {
+      "id": "2975",
+      "name": "Koltsovo Airport",
+      "city": "Yekaterinburg",
+      "country": "Russia",
+      "iataId": "SVX",
+      "icaoId": "USSS",
+      "latitude": 56.743099212646,
+      "longitude": 60.802700042725,
+      "timezone": 764,
+      "dst": "5",
+      "tzTimezone": "N",
+      "type": "Asia/Yekaterinburg",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A321",
+      "iataId": "321",
+      "icaoId": "A321"
+    },
+    "airline": {
+      "id": "130",
+      "name": "Aeroflot Russian Airlines",
+      "alias": null,
+      "iataId": "SU",
+      "icaoId": "AFL",
+      "callSign": "AEROFLOT",
+      "country": "Russia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 152
+  },
+  {
+    "destination": {
+      "id": "340",
+      "name": "Frankfurt am Main International Airport",
+      "city": "Frankfurt",
+      "country": "Germany",
+      "iataId": "FRA",
+      "icaoId": "EDDF",
+      "latitude": 50.0333333,
+      "longitude": 8.5705556,
+      "timezone": 364,
+      "dst": "1",
+      "tzTimezone": "E",
+      "type": "Europe/Berlin",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A320",
+      "iataId": "320",
+      "icaoId": "A320"
+    },
+    "airline": {
+      "id": "130",
+      "name": "Aeroflot Russian Airlines",
+      "alias": null,
+      "iataId": "SU",
+      "icaoId": "AFL",
+      "callSign": "AEROFLOT",
+      "country": "Russia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 521
+  },
+  {
+    "destination": {
+      "id": "4111",
+      "name": "Roshchino International Airport",
+      "city": "Tyumen",
+      "country": "Russia",
+      "iataId": "TJM",
+      "icaoId": "USTR",
+      "latitude": 57.189601898199996,
+      "longitude": 65.3243026733,
+      "timezone": 378,
+      "dst": "5",
+      "tzTimezone": "N",
+      "type": "Asia/Yekaterinburg",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A320",
+      "iataId": "320",
+      "icaoId": "A320"
+    },
+    "airline": {
+      "id": "130",
+      "name": "Aeroflot Russian Airlines",
+      "alias": null,
+      "iataId": "SU",
+      "icaoId": "AFL",
+      "callSign": "AEROFLOT",
+      "country": "Russia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 79
+  },
+  {
+    "destination": {
+      "id": "6933",
+      "name": "Gelendzhik Airport",
+      "city": "Gelendzhik",
+      "country": "Russia",
+      "iataId": "GDZ",
+      "icaoId": "URKG",
+      "latitude": 44.5820926295,
+      "longitude": 38.0124807358,
+      "timezone": 98,
+      "dst": "3",
+      "tzTimezone": "N",
+      "type": "Europe/Moscow",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A320",
+      "iataId": "320",
+      "icaoId": "A320"
+    },
+    "airline": {
+      "id": "130",
+      "name": "Aeroflot Russian Airlines",
+      "alias": null,
+      "iataId": "SU",
+      "icaoId": "AFL",
+      "callSign": "AEROFLOT",
+      "country": "Russia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 220
+  },
+  {
+    "destination": {
+      "id": "1590",
+      "name": "Ben Gurion International Airport",
+      "city": "Tel-aviv",
+      "country": "Israel",
+      "iataId": "TLV",
+      "icaoId": "LLBG",
+      "latitude": 32.01139831542969,
+      "longitude": 34.88669967651367,
+      "timezone": 135,
+      "dst": "2",
+      "tzTimezone": "E",
+      "type": "Asia/Jerusalem",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A330-300",
+      "iataId": "333",
+      "icaoId": "A333"
+    },
+    "airline": {
+      "id": "130",
+      "name": "Aeroflot Russian Airlines",
+      "alias": null,
+      "iataId": "SU",
+      "icaoId": "AFL",
+      "callSign": "AEROFLOT",
+      "country": "Russia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 156
+  },
+  {
+    "destination": {
+      "id": "1665",
+      "name": "Geneva Cointrin International Airport",
+      "city": "Geneva",
+      "country": "Switzerland",
+      "iataId": "GVA",
+      "icaoId": "LSGG",
+      "latitude": 46.23809814453125,
+      "longitude": 6.108950138092041,
+      "timezone": 1411,
+      "dst": "1",
+      "tzTimezone": "E",
+      "type": "Europe/Paris",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A320",
+      "iataId": "320",
+      "icaoId": "A320"
+    },
+    "airline": {
+      "id": "130",
+      "name": "Aeroflot Russian Airlines",
+      "alias": null,
+      "iataId": "SU",
+      "icaoId": "AFL",
+      "callSign": "AEROFLOT",
+      "country": "Russia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 139
+  },
+  {
+    "destination": {
+      "id": "3959",
+      "name": "Vilnius International Airport",
+      "city": "Vilnius",
+      "country": "Lithuania",
+      "iataId": "VNO",
+      "icaoId": "EYVI",
+      "latitude": 54.63410186767578,
+      "longitude": 25.28580093383789,
+      "timezone": 646,
+      "dst": "2",
+      "tzTimezone": "E",
+      "type": "Europe/Vilnius",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A320",
+      "iataId": "320",
+      "icaoId": "A320"
+    },
+    "airline": {
+      "id": "130",
+      "name": "Aeroflot Russian Airlines",
+      "alias": null,
+      "iataId": "SU",
+      "icaoId": "AFL",
+      "callSign": "AEROFLOT",
+      "country": "Russia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 676
+  },
+  {
+    "destination": {
+      "id": "2923",
+      "name": "Yakutsk Airport",
+      "city": "Yakutsk",
+      "country": "Russia",
+      "iataId": "YKS",
+      "icaoId": "UEEE",
+      "latitude": 62.093299865722656,
+      "longitude": 129.77099609375,
+      "timezone": 325,
+      "dst": "9",
+      "tzTimezone": "N",
+      "type": "Asia/Yakutsk",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Boeing 737-800",
+      "iataId": "738",
+      "icaoId": "B738"
+    },
+    "airline": {
+      "id": "130",
+      "name": "Aeroflot Russian Airlines",
+      "alias": null,
+      "iataId": "SU",
+      "icaoId": "AFL",
+      "callSign": "AEROFLOT",
+      "country": "Russia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 486
+  },
+  {
+    "destination": {
+      "id": "6105",
+      "name": "Kharkiv International Airport",
+      "city": "Kharkov",
+      "country": "Ukraine",
+      "iataId": "HRK",
+      "icaoId": "UKHH",
+      "latitude": 49.924800872802734,
+      "longitude": 36.290000915527344,
+      "timezone": 508,
+      "dst": "2",
+      "tzTimezone": "E",
+      "type": "Europe/Kiev",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Sukhoi Superjet 100-95",
+      "iataId": "SU9",
+      "icaoId": "SU95"
+    },
+    "airline": {
+      "id": "130",
+      "name": "Aeroflot Russian Airlines",
+      "alias": null,
+      "iataId": "SU",
+      "icaoId": "AFL",
+      "callSign": "AEROFLOT",
+      "country": "Russia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 389
+  },
+  {
+    "destination": {
+      "id": "2937",
+      "name": "Irkutsk Airport",
+      "city": "Irkutsk",
+      "country": "Russia",
+      "iataId": "IKT",
+      "icaoId": "UIII",
+      "latitude": 52.268001556396,
+      "longitude": 104.38899993896,
+      "timezone": 1675,
+      "dst": "8",
+      "tzTimezone": "N",
+      "type": "Asia/Irkutsk",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A320",
+      "iataId": "320",
+      "icaoId": "A320"
+    },
+    "airline": {
+      "id": "130",
+      "name": "Aeroflot Russian Airlines",
+      "alias": null,
+      "iataId": "SU",
+      "icaoId": "AFL",
+      "callSign": "AEROFLOT",
+      "country": "Russia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 455
+  },
+  {
+    "destination": {
+      "id": "2957",
+      "name": "Kemerovo Airport",
+      "city": "Kemorovo",
+      "country": "Russia",
+      "iataId": "KEJ",
+      "icaoId": "UNEE",
+      "latitude": 55.27009963989258,
+      "longitude": 86.1072006225586,
+      "timezone": 863,
+      "dst": "7",
+      "tzTimezone": "N",
+      "type": "Asia/Krasnoyarsk",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A321",
+      "iataId": "321",
+      "icaoId": "A321"
+    },
+    "airline": {
+      "id": "130",
+      "name": "Aeroflot Russian Airlines",
+      "alias": null,
+      "iataId": "SU",
+      "icaoId": "AFL",
+      "callSign": "AEROFLOT",
+      "country": "Russia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 724
+  },
+  {
+    "destination": {
+      "id": "2952",
+      "name": "Khrabrovo Airport",
+      "city": "Kaliningrad",
+      "country": "Russia",
+      "iataId": "KGD",
+      "icaoId": "UMKK",
+      "latitude": 54.88999938964844,
+      "longitude": 20.592599868774414,
+      "timezone": 42,
+      "dst": "2",
+      "tzTimezone": "N",
+      "type": "Europe/Kaliningrad",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A320",
+      "iataId": "320",
+      "icaoId": "A320"
+    },
+    "airline": {
+      "id": "130",
+      "name": "Aeroflot Russian Airlines",
+      "alias": null,
+      "iataId": "SU",
+      "icaoId": "AFL",
+      "callSign": "AEROFLOT",
+      "country": "Russia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 100
+  },
+  {
+    "destination": {
+      "id": "2966",
+      "name": "Astrakhan Airport",
+      "city": "Astrakhan",
+      "country": "Russia",
+      "iataId": "ASF",
+      "icaoId": "URWA",
+      "latitude": 46.2832984924,
+      "longitude": 48.0063018799,
+      "timezone": -65,
+      "dst": "4",
+      "tzTimezone": "N",
+      "type": "Europe/Samara",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A319",
+      "iataId": "319",
+      "icaoId": "A319"
+    },
+    "airline": {
+      "id": "130",
+      "name": "Aeroflot Russian Airlines",
+      "alias": null,
+      "iataId": "SU",
+      "icaoId": "AFL",
+      "callSign": "AEROFLOT",
+      "country": "Russia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 553
+  },
+  {
+    "destination": {
+      "id": "1229",
+      "name": "Adolfo Suárez Madrid–Barajas Airport",
+      "city": "Madrid",
+      "country": "Spain",
+      "iataId": "MAD",
+      "icaoId": "LEMD",
+      "latitude": 40.471926,
+      "longitude": -3.56264,
+      "timezone": 1998,
+      "dst": "1",
+      "tzTimezone": "E",
+      "type": "Europe/Madrid",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A321",
+      "iataId": "321",
+      "icaoId": "A321"
+    },
+    "airline": {
+      "id": "130",
+      "name": "Aeroflot Russian Airlines",
+      "alias": null,
+      "iataId": "SU",
+      "icaoId": "AFL",
+      "callSign": "AEROFLOT",
+      "country": "Russia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 607
+  },
+  {
+    "destination": {
+      "id": "1739",
+      "name": "Belgrade Nikola Tesla Airport",
+      "city": "Belgrade",
+      "country": "Serbia",
+      "iataId": "BEG",
+      "icaoId": "LYBE",
+      "latitude": 44.8184013367,
+      "longitude": 20.3090991974,
+      "timezone": 335,
+      "dst": "1",
+      "tzTimezone": "E",
+      "type": "Europe/Belgrade",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A319",
+      "iataId": "319",
+      "icaoId": "A319"
+    },
+    "airline": {
+      "id": "130",
+      "name": "Aeroflot Russian Airlines",
+      "alias": null,
+      "iataId": "SU",
+      "icaoId": "AFL",
+      "callSign": "AEROFLOT",
+      "country": "Russia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 293
+  },
+  {
+    "destination": {
+      "id": "1524",
+      "name": "Malpensa International Airport",
+      "city": "Milano",
+      "country": "Italy",
+      "iataId": "MXP",
+      "icaoId": "LIMC",
+      "latitude": 45.6306,
+      "longitude": 8.72811,
+      "timezone": 768,
+      "dst": "1",
+      "tzTimezone": "E",
+      "type": "Europe/Rome",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A321",
+      "iataId": "321",
+      "icaoId": "A321"
+    },
+    "airline": {
+      "id": "130",
+      "name": "Aeroflot Russian Airlines",
+      "alias": null,
+      "iataId": "SU",
+      "icaoId": "AFL",
+      "callSign": "AEROFLOT",
+      "country": "Russia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 942
+  },
+  {
+    "destination": {
+      "id": "2177",
+      "name": "Beirut Rafic Hariri International Airport",
+      "city": "Beirut",
+      "country": "Lebanon",
+      "iataId": "BEY",
+      "icaoId": "OLBA",
+      "latitude": 33.820899963378906,
+      "longitude": 35.488399505615234,
+      "timezone": 87,
+      "dst": "2",
+      "tzTimezone": "E",
+      "type": "Asia/Beirut",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A319",
+      "iataId": "319",
+      "icaoId": "A319"
+    },
+    "airline": {
+      "id": "130",
+      "name": "Aeroflot Russian Airlines",
+      "alias": null,
+      "iataId": "SU",
+      "icaoId": "AFL",
+      "callSign": "AEROFLOT",
+      "country": "Russia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 980
+  },
+  {
+    "destination": {
+      "id": "2279",
+      "name": "Narita International Airport",
+      "city": "Tokyo",
+      "country": "Japan",
+      "iataId": "NRT",
+      "icaoId": "RJAA",
+      "latitude": 35.7647018433,
+      "longitude": 140.386001587,
+      "timezone": 141,
+      "dst": "9",
+      "tzTimezone": "U",
+      "type": "Asia/Tokyo",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A330-300",
+      "iataId": "333",
+      "icaoId": "A333"
+    },
+    "airline": {
+      "id": "130",
+      "name": "Aeroflot Russian Airlines",
+      "alias": null,
+      "iataId": "SU",
+      "icaoId": "AFL",
+      "callSign": "AEROFLOT",
+      "country": "Russia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 829
+  },
+  {
+    "destination": {
+      "id": "2912",
+      "name": "Manas International Airport",
+      "city": "Bishkek",
+      "country": "Kyrgyzstan",
+      "iataId": "FRU",
+      "icaoId": "UAFM",
+      "latitude": 43.0612983704,
+      "longitude": 74.4776000977,
+      "timezone": 2058,
+      "dst": "6",
+      "tzTimezone": "U",
+      "type": "Asia/Bishkek",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A319",
+      "iataId": "319",
+      "icaoId": "A319"
+    },
+    "airline": {
+      "id": "130",
+      "name": "Aeroflot Russian Airlines",
+      "alias": null,
+      "iataId": "SU",
+      "icaoId": "AFL",
+      "callSign": "AEROFLOT",
+      "country": "Russia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 281
+  },
+  {
+    "destination": {
+      "id": "2973",
+      "name": "Bolshoye Savino Airport",
+      "city": "Perm",
+      "country": "Russia",
+      "iataId": "PEE",
+      "icaoId": "USPP",
+      "latitude": 57.914501190186,
+      "longitude": 56.021198272705,
+      "timezone": 404,
+      "dst": "5",
+      "tzTimezone": "N",
+      "type": "Asia/Yekaterinburg",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Sukhoi Superjet 100-95",
+      "iataId": "SU9",
+      "icaoId": "SU95"
+    },
+    "airline": {
+      "id": "130",
+      "name": "Aeroflot Russian Airlines",
+      "alias": null,
+      "iataId": "SU",
+      "icaoId": "AFL",
+      "callSign": "AEROFLOT",
+      "country": "Russia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 514
+  },
+  {
+    "destination": {
+      "id": "2991",
+      "name": "Orenburg Central Airport",
+      "city": "Orenburg",
+      "country": "Russia",
+      "iataId": "REN",
+      "icaoId": "UWOO",
+      "latitude": 51.795799255371094,
+      "longitude": 55.45669937133789,
+      "timezone": 387,
+      "dst": "5",
+      "tzTimezone": "N",
+      "type": "Asia/Yekaterinburg",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A320",
+      "iataId": "320",
+      "icaoId": "A320"
+    },
+    "airline": {
+      "id": "130",
+      "name": "Aeroflot Russian Airlines",
+      "alias": null,
+      "iataId": "SU",
+      "icaoId": "AFL",
+      "callSign": "AEROFLOT",
+      "country": "Russia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 145
+  },
+  {
+    "destination": {
+      "id": "2949",
+      "name": "Murmansk Airport",
+      "city": "Murmansk",
+      "country": "Russia",
+      "iataId": "MMK",
+      "icaoId": "ULMM",
+      "latitude": 68.78170013427734,
+      "longitude": 32.75080108642578,
+      "timezone": 266,
+      "dst": "3",
+      "tzTimezone": "N",
+      "type": "Europe/Moscow",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Boeing 737-500",
+      "iataId": "735",
+      "icaoId": "B735"
+    },
+    "airline": {
+      "id": "503",
+      "name": "Aeroflot-Nord",
+      "alias": null,
+      "iataId": "5N",
+      "icaoId": "AUL",
+      "callSign": "DVINA",
+      "country": "Russia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 580
+  },
+  {
+    "destination": {
+      "id": "2974",
+      "name": "Surgut Airport",
+      "city": "Surgut",
+      "country": "Russia",
+      "iataId": "SGC",
+      "icaoId": "USRR",
+      "latitude": 61.34370040893555,
+      "longitude": 73.40180206298828,
+      "timezone": 200,
+      "dst": "5",
+      "tzTimezone": "N",
+      "type": "Asia/Yekaterinburg",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A320",
+      "iataId": "320",
+      "icaoId": "A320"
+    },
+    "airline": {
+      "id": "130",
+      "name": "Aeroflot Russian Airlines",
+      "alias": null,
+      "iataId": "SU",
+      "icaoId": "AFL",
+      "callSign": "AEROFLOT",
+      "country": "Russia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 31
+  },
+  {
+    "destination": {
+      "id": "4362",
+      "name": "Talagi Airport",
+      "city": "Arkhangelsk",
+      "country": "Russia",
+      "iataId": "ARH",
+      "icaoId": "ULAA",
+      "latitude": 64.60030364990234,
+      "longitude": 40.71670150756836,
+      "timezone": 62,
+      "dst": "3",
+      "tzTimezone": "N",
+      "type": "Europe/Moscow",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Boeing 737-500",
+      "iataId": "735",
+      "icaoId": "B735"
+    },
+    "airline": {
+      "id": "130",
+      "name": "Aeroflot Russian Airlines",
+      "alias": null,
+      "iataId": "SU",
+      "icaoId": "AFL",
+      "callSign": "AEROFLOT",
+      "country": "Russia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 697
+  },
+  {
+    "destination": {
+      "id": "3077",
+      "name": "Chek Lap Kok International Airport",
+      "city": "Hong Kong",
+      "country": "Hong Kong",
+      "iataId": "HKG",
+      "icaoId": "VHHH",
+      "latitude": 22.3089008331,
+      "longitude": 113.915000916,
+      "timezone": 28,
+      "dst": "8",
+      "tzTimezone": "U",
+      "type": "Asia/Hong_Kong",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Boeing 777-300ER",
+      "iataId": "77W",
+      "icaoId": "B77W"
+    },
+    "airline": {
+      "id": "130",
+      "name": "Aeroflot Russian Airlines",
+      "alias": null,
+      "iataId": "SU",
+      "icaoId": "AFL",
+      "callSign": "AEROFLOT",
+      "country": "Russia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 519
+  },
+  {
+    "destination": {
+      "id": "1486",
+      "name": "Thessaloniki Macedonia International Airport",
+      "city": "Thessaloniki",
+      "country": "Greece",
+      "iataId": "SKG",
+      "icaoId": "LGTS",
+      "latitude": 40.51969909667969,
+      "longitude": 22.97089958190918,
+      "timezone": 22,
+      "dst": "2",
+      "tzTimezone": "E",
+      "type": "Europe/Athens",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A321",
+      "iataId": "321",
+      "icaoId": "A321"
+    },
+    "airline": {
+      "id": "130",
+      "name": "Aeroflot Russian Airlines",
+      "alias": null,
+      "iataId": "SU",
+      "icaoId": "AFL",
+      "callSign": "AEROFLOT",
+      "country": "Russia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 100
+  },
+  {
+    "destination": {
+      "id": "1587",
+      "name": "Václav Havel Airport Prague",
+      "city": "Prague",
+      "country": "Czech Republic",
+      "iataId": "PRG",
+      "icaoId": "LKPR",
+      "latitude": 50.1008,
+      "longitude": 14.26,
+      "timezone": 1247,
+      "dst": "1",
+      "tzTimezone": "E",
+      "type": "Europe/Prague",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A321",
+      "iataId": "321",
+      "icaoId": "A321"
+    },
+    "airline": {
+      "id": "130",
+      "name": "Aeroflot Russian Airlines",
+      "alias": null,
+      "iataId": "SU",
+      "icaoId": "AFL",
+      "callSign": "AEROFLOT",
+      "country": "Russia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 40
+  },
+  {
+    "destination": {
+      "id": "210",
+      "name": "Houari Boumediene Airport",
+      "city": "Algier",
+      "country": "Algeria",
+      "iataId": "ALG",
+      "icaoId": "DAAG",
+      "latitude": 36.691001892089844,
+      "longitude": 3.215409994125366,
+      "timezone": 82,
+      "dst": "1",
+      "tzTimezone": "N",
+      "type": "Africa/Algiers",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Boeing 737-600",
+      "iataId": "736",
+      "icaoId": "B736"
+    },
+    "airline": {
+      "id": "794",
+      "name": "Air Algerie",
+      "alias": null,
+      "iataId": "AH",
+      "icaoId": "DAH",
+      "callSign": "AIR ALGERIE",
+      "country": "Algeria",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 24
+  },
+  {
+    "destination": {
+      "id": "1194",
+      "name": "Sofia Airport",
+      "city": "Sofia",
+      "country": "Bulgaria",
+      "iataId": "SOF",
+      "icaoId": "LBSF",
+      "latitude": 42.696693420410156,
+      "longitude": 23.411436080932617,
+      "timezone": 1742,
+      "dst": "2",
+      "tzTimezone": "E",
+      "type": "Europe/Sofia",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A319",
+      "iataId": "319",
+      "icaoId": "A319"
+    },
+    "airline": {
+      "id": "1548",
+      "name": "Bulgaria Air",
+      "alias": null,
+      "iataId": "FB",
+      "icaoId": "LZB",
+      "callSign": "FLYING BULGARIA",
+      "country": "Bulgaria",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 651
+  },
+  {
+    "destination": {
+      "id": "2938",
+      "name": "Ulan-Ude Airport (Mukhino)",
+      "city": "Ulan-ude",
+      "country": "Russia",
+      "iataId": "UUD",
+      "icaoId": "UIUU",
+      "latitude": 51.80780029296875,
+      "longitude": 107.43800354003906,
+      "timezone": 1690,
+      "dst": "8",
+      "tzTimezone": "N",
+      "type": "Asia/Irkutsk",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A319",
+      "iataId": "319",
+      "icaoId": "A319"
+    },
+    "airline": {
+      "id": "130",
+      "name": "Aeroflot Russian Airlines",
+      "alias": null,
+      "iataId": "SU",
+      "icaoId": "AFL",
+      "callSign": "AEROFLOT",
+      "country": "Russia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 409
+  },
+  {
+    "destination": {
+      "id": "2960",
+      "name": "Krasnodar Pashkovsky International Airport",
+      "city": "Krasnodar",
+      "country": "Russia",
+      "iataId": "KRR",
+      "icaoId": "URKK",
+      "latitude": 45.034698486328,
+      "longitude": 39.170501708984,
+      "timezone": 118,
+      "dst": "3",
+      "tzTimezone": "N",
+      "type": "Europe/Moscow",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A319",
+      "iataId": "319",
+      "icaoId": "A319"
+    },
+    "airline": {
+      "id": "130",
+      "name": "Aeroflot Russian Airlines",
+      "alias": null,
+      "iataId": "SU",
+      "icaoId": "AFL",
+      "callSign": "AEROFLOT",
+      "country": "Russia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 631
+  },
+  {
+    "destination": {
+      "id": "6119",
+      "name": "Spichenkovo Airport",
+      "city": "Novokuznetsk",
+      "country": "Russia",
+      "iataId": "NOZ",
+      "icaoId": "UNWW",
+      "latitude": 53.8114013671875,
+      "longitude": 86.877197265625,
+      "timezone": 1024,
+      "dst": "7",
+      "tzTimezone": "N",
+      "type": "Asia/Krasnoyarsk",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A319",
+      "iataId": "319",
+      "icaoId": "A319"
+    },
+    "airline": {
+      "id": "130",
+      "name": "Aeroflot Russian Airlines",
+      "alias": null,
+      "iataId": "SU",
+      "icaoId": "AFL",
+      "callSign": "AEROFLOT",
+      "country": "Russia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 147
+  },
+  {
+    "destination": {
+      "id": "1208",
+      "name": "Zagreb Airport",
+      "city": "Zagreb",
+      "country": "Croatia",
+      "iataId": "ZAG",
+      "icaoId": "LDZA",
+      "latitude": 45.7429008484,
+      "longitude": 16.0687999725,
+      "timezone": 353,
+      "dst": "1",
+      "tzTimezone": "E",
+      "type": "Europe/Zagreb",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A319",
+      "iataId": "319",
+      "icaoId": "A319"
+    },
+    "airline": {
+      "id": "130",
+      "name": "Aeroflot Russian Airlines",
+      "alias": null,
+      "iataId": "SU",
+      "icaoId": "AFL",
+      "callSign": "AEROFLOT",
+      "country": "Russia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 359
+  },
+  {
+    "destination": {
+      "id": "2934",
+      "name": "Vladivostok International Airport",
+      "city": "Vladivostok",
+      "country": "Russia",
+      "iataId": "VVO",
+      "icaoId": "UHWW",
+      "latitude": 43.39899826049805,
+      "longitude": 132.1479949951172,
+      "timezone": 46,
+      "dst": "10",
+      "tzTimezone": "N",
+      "type": "Asia/Vladivostok",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Boeing 777-300ER",
+      "iataId": "77W",
+      "icaoId": "B77W"
+    },
+    "airline": {
+      "id": "130",
+      "name": "Aeroflot Russian Airlines",
+      "alias": null,
+      "iataId": "SU",
+      "icaoId": "AFL",
+      "callSign": "AEROFLOT",
+      "country": "Russia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 958
+  }
+]

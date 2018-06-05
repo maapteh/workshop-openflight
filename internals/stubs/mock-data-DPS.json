@@ -1,0 +1,1472 @@
+[
+  {
+    "destination": {
+      "id": "3374",
+      "name": "Shenzhen Bao'an International Airport",
+      "city": "Shenzhen",
+      "country": "China",
+      "iataId": "SZX",
+      "icaoId": "ZGSZ",
+      "latitude": 22.639299392700195,
+      "longitude": 113.81099700927734,
+      "timezone": 13,
+      "dst": "8",
+      "tzTimezone": "U",
+      "type": "Asia/Shanghai",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A320",
+      "iataId": "320",
+      "icaoId": "A320"
+    },
+    "airline": {
+      "id": "1767",
+      "name": "China Southern Airlines",
+      "alias": null,
+      "iataId": "CZ",
+      "icaoId": "CSN",
+      "callSign": "CHINA SOUTHERN",
+      "country": "China",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 391
+  },
+  {
+    "destination": {
+      "id": "3304",
+      "name": "Kuala Lumpur International Airport",
+      "city": "Kuala Lumpur",
+      "country": "Malaysia",
+      "iataId": "KUL",
+      "icaoId": "WMKK",
+      "latitude": 2.745579957962,
+      "longitude": 101.70999908447,
+      "timezone": 69,
+      "dst": "8",
+      "tzTimezone": "N",
+      "type": "Asia/Kuala_Lumpur",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A320",
+      "iataId": "320",
+      "icaoId": "A320"
+    },
+    "airline": {
+      "id": "576",
+      "name": "AirAsia",
+      "alias": "Air Asia",
+      "iataId": "AK",
+      "icaoId": "AXM",
+      "callSign": "ASIAN EXPRESS",
+      "country": "Malaysia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 265
+  },
+  {
+    "destination": {
+      "id": "2397",
+      "name": "Ninoy Aquino International Airport",
+      "city": "Manila",
+      "country": "Philippines",
+      "iataId": "MNL",
+      "icaoId": "RPLL",
+      "latitude": 14.5086,
+      "longitude": 121.019997,
+      "timezone": 75,
+      "dst": "8",
+      "tzTimezone": "N",
+      "type": "Asia/Manila",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A320",
+      "iataId": "320",
+      "icaoId": "A320"
+    },
+    "airline": {
+      "id": "1683",
+      "name": "Cebu Pacific",
+      "alias": null,
+      "iataId": "5J",
+      "icaoId": "CEB",
+      "callSign": "CEBU AIR",
+      "country": "Philippines",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 331
+  },
+  {
+    "destination": {
+      "id": "3157",
+      "name": "Don Mueang International Airport",
+      "city": "Bangkok",
+      "country": "Thailand",
+      "iataId": "DMK",
+      "icaoId": "VTBD",
+      "latitude": 13.9125995636,
+      "longitude": 100.607002258,
+      "timezone": 9,
+      "dst": "7",
+      "tzTimezone": "U",
+      "type": "Asia/Bangkok",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A320",
+      "iataId": "320",
+      "icaoId": "A320"
+    },
+    "airline": {
+      "id": "4947",
+      "name": "Thai AirAsia",
+      "alias": "Thai Air Asia",
+      "iataId": "FD",
+      "icaoId": "AIQ",
+      "callSign": "THAI ASIA",
+      "country": "Thailand",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 434
+  },
+  {
+    "destination": {
+      "id": "3370",
+      "name": "Guangzhou Baiyun International Airport",
+      "city": "Guangzhou",
+      "country": "China",
+      "iataId": "CAN",
+      "icaoId": "ZGGG",
+      "latitude": 23.39240074157715,
+      "longitude": 113.29900360107422,
+      "timezone": 50,
+      "dst": "8",
+      "tzTimezone": "U",
+      "type": "Asia/Shanghai",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Boeing737-800",
+      "iataId": "738",
+      "icaoId": "B738"
+    },
+    "airline": {
+      "id": "1767",
+      "name": "China Southern Airlines",
+      "alias": null,
+      "iataId": "CZ",
+      "icaoId": "CSN",
+      "callSign": "CHINA SOUTHERN",
+      "country": "China",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 481
+  },
+  {
+    "destination": {
+      "id": "2276",
+      "name": "Taiwan Taoyuan International Airport",
+      "city": "Taipei",
+      "country": "Taiwan",
+      "iataId": "TPE",
+      "icaoId": "RCTP",
+      "latitude": 25.0777,
+      "longitude": 121.233002,
+      "timezone": 106,
+      "dst": "8",
+      "tzTimezone": "U",
+      "type": "Asia/Taipei",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A330-200",
+      "iataId": "332",
+      "icaoId": "A332"
+    },
+    "airline": {
+      "id": "2091",
+      "name": "EVA Air",
+      "alias": null,
+      "iataId": "BR",
+      "icaoId": "EVA",
+      "callSign": "EVA",
+      "country": "Taiwan",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 187
+  },
+  {
+    "destination": {
+      "id": "3077",
+      "name": "Chek Lap Kok International Airport",
+      "city": "Hong Kong",
+      "country": "Hong Kong",
+      "iataId": "HKG",
+      "icaoId": "VHHH",
+      "latitude": 22.3089008331,
+      "longitude": 113.915000916,
+      "timezone": 28,
+      "dst": "8",
+      "tzTimezone": "U",
+      "type": "Asia/Hong_Kong",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Boeing777-300",
+      "iataId": "773",
+      "icaoId": "B773"
+    },
+    "airline": {
+      "id": "1680",
+      "name": "Cathay Pacific",
+      "alias": null,
+      "iataId": "CX",
+      "icaoId": "CPA",
+      "callSign": "CATHAY",
+      "country": "Hong Kong SAR of China",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 975
+  },
+  {
+    "destination": {
+      "id": "3924",
+      "name": "Muhammad Salahuddin Airport",
+      "city": "Bima",
+      "country": "Indonesia",
+      "iataId": "BMU",
+      "icaoId": "WADB",
+      "latitude": -8.5396499633789,
+      "longitude": 118.68699645996,
+      "timezone": 3,
+      "dst": "8",
+      "tzTimezone": "N",
+      "type": "Asia/Makassar",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Aerospatiale/Alenia ATR72",
+      "iataId": "AT7",
+      "icaoId": "AT72"
+    },
+    "airline": {
+      "id": "2520",
+      "name": "Garuda Indonesia",
+      "alias": null,
+      "iataId": "GA",
+      "icaoId": "GIA",
+      "callSign": "INDONESIA",
+      "country": "Indonesia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 573
+  },
+  {
+    "destination": {
+      "id": "3896",
+      "name": "Husein Sastranegara International Airport",
+      "city": "Bandung",
+      "country": "Indonesia",
+      "iataId": "BDO",
+      "icaoId": "WICC",
+      "latitude": -6.900629997253418,
+      "longitude": 107.57599639892578,
+      "timezone": 2436,
+      "dst": "7",
+      "tzTimezone": "N",
+      "type": "Asia/Jakarta",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Boeing737-800",
+      "iataId": "738",
+      "icaoId": "B738"
+    },
+    "airline": {
+      "id": "2520",
+      "name": "Garuda Indonesia",
+      "alias": null,
+      "iataId": "GA",
+      "icaoId": "GIA",
+      "callSign": "INDONESIA",
+      "country": "Indonesia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 311
+  },
+  {
+    "destination": {
+      "id": "3320",
+      "name": "Brisbane International Airport",
+      "city": "Brisbane",
+      "country": "Australia",
+      "iataId": "BNE",
+      "icaoId": "YBBN",
+      "latitude": -27.384199142456055,
+      "longitude": 153.11700439453125,
+      "timezone": 13,
+      "dst": "10",
+      "tzTimezone": "N",
+      "type": "Australia/Brisbane",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Boeing737-800",
+      "iataId": "738",
+      "icaoId": "B738"
+    },
+    "airline": {
+      "id": "2520",
+      "name": "Garuda Indonesia",
+      "alias": null,
+      "iataId": "GA",
+      "icaoId": "GIA",
+      "callSign": "INDONESIA",
+      "country": "Indonesia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 518
+  },
+  {
+    "destination": {
+      "id": "3275",
+      "name": "Soekarno-Hatta International Airport",
+      "city": "Jakarta",
+      "country": "Indonesia",
+      "iataId": "CGK",
+      "icaoId": "WIII",
+      "latitude": -6.1255698204,
+      "longitude": 106.65599823,
+      "timezone": 34,
+      "dst": "7",
+      "tzTimezone": "N",
+      "type": "Asia/Jakarta",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Boeing737-800",
+      "iataId": "738",
+      "icaoId": "B738"
+    },
+    "airline": {
+      "id": "2520",
+      "name": "Garuda Indonesia",
+      "alias": null,
+      "iataId": "GA",
+      "icaoId": "GIA",
+      "callSign": "INDONESIA",
+      "country": "Indonesia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 660
+  },
+  {
+    "destination": {
+      "id": "3916",
+      "name": "El Tari Airport",
+      "city": "Kupang",
+      "country": "Indonesia",
+      "iataId": "KOE",
+      "icaoId": "WATT",
+      "latitude": -10.171600341796875,
+      "longitude": 123.6709976196289,
+      "timezone": 335,
+      "dst": "8",
+      "tzTimezone": "N",
+      "type": "Asia/Makassar",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Boeing737-800",
+      "iataId": "738",
+      "icaoId": "B738"
+    },
+    "airline": {
+      "id": "2520",
+      "name": "Garuda Indonesia",
+      "alias": null,
+      "iataId": "GA",
+      "icaoId": "GIA",
+      "callSign": "INDONESIA",
+      "country": "Indonesia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 482
+  },
+  {
+    "destination": {
+      "id": "2359",
+      "name": "Tokyo Haneda International Airport",
+      "city": "Tokyo",
+      "country": "Japan",
+      "iataId": "HND",
+      "icaoId": "RJTT",
+      "latitude": 35.552299,
+      "longitude": 139.779999,
+      "timezone": 35,
+      "dst": "9",
+      "tzTimezone": "U",
+      "type": "Asia/Tokyo",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A330-200",
+      "iataId": "332",
+      "icaoId": "A332"
+    },
+    "airline": {
+      "id": "2520",
+      "name": "Garuda Indonesia",
+      "alias": null,
+      "iataId": "GA",
+      "icaoId": "GIA",
+      "callSign": "INDONESIA",
+      "country": "Indonesia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 567
+  },
+  {
+    "destination": {
+      "id": "3992",
+      "name": "Kansai International Airport",
+      "city": "Osaka",
+      "country": "Japan",
+      "iataId": "KIX",
+      "icaoId": "RJBB",
+      "latitude": 34.42729949951172,
+      "longitude": 135.24400329589844,
+      "timezone": 26,
+      "dst": "9",
+      "tzTimezone": "U",
+      "type": "Asia/Tokyo",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A330-300",
+      "iataId": "333",
+      "icaoId": "A333"
+    },
+    "airline": {
+      "id": "2520",
+      "name": "Garuda Indonesia",
+      "alias": null,
+      "iataId": "GA",
+      "icaoId": "GIA",
+      "callSign": "INDONESIA",
+      "country": "Indonesia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 405
+  },
+  {
+    "destination": {
+      "id": "3351",
+      "name": "Perth International Airport",
+      "city": "Perth",
+      "country": "Australia",
+      "iataId": "PER",
+      "icaoId": "YPPH",
+      "latitude": -31.94029998779297,
+      "longitude": 115.96700286865234,
+      "timezone": 67,
+      "dst": "8",
+      "tzTimezone": "N",
+      "type": "Australia/Perth",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Boeing737-800",
+      "iataId": "738",
+      "icaoId": "B738"
+    },
+    "airline": {
+      "id": "2520",
+      "name": "Garuda Indonesia",
+      "alias": null,
+      "iataId": "GA",
+      "icaoId": "GIA",
+      "callSign": "INDONESIA",
+      "country": "Indonesia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 873
+  },
+  {
+    "destination": {
+      "id": "6204",
+      "name": "Tambolaka Airport",
+      "city": "Waikabubak-Sumba Island",
+      "country": "Indonesia",
+      "iataId": "TMC",
+      "icaoId": "WADT",
+      "latitude": -9.409720420837402,
+      "longitude": 119.24400329589844,
+      "timezone": 161,
+      "dst": "8",
+      "tzTimezone": "N",
+      "type": "Asia/Makassar",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Aerospatiale/Alenia ATR72",
+      "iataId": "AT7",
+      "icaoId": "AT72"
+    },
+    "airline": {
+      "id": "2520",
+      "name": "Garuda Indonesia",
+      "alias": null,
+      "iataId": "GA",
+      "icaoId": "GIA",
+      "callSign": "INDONESIA",
+      "country": "Indonesia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 155
+  },
+  {
+    "destination": {
+      "id": "3289",
+      "name": "Sultan Mahmud Badaruddin II Airport",
+      "city": "Palembang",
+      "country": "Indonesia",
+      "iataId": "PLM",
+      "icaoId": "WIPP",
+      "latitude": -2.8982501029968,
+      "longitude": 104.69999694824,
+      "timezone": 49,
+      "dst": "7",
+      "tzTimezone": "N",
+      "type": "Asia/Jakarta",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Canadair Regional Jet1000",
+      "iataId": "CRK",
+      "icaoId": "CRJX"
+    },
+    "airline": {
+      "id": "2520",
+      "name": "Garuda Indonesia",
+      "alias": null,
+      "iataId": "GA",
+      "icaoId": "GIA",
+      "callSign": "INDONESIA",
+      "country": "Indonesia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 537
+  },
+  {
+    "destination": {
+      "id": "3917",
+      "name": "Komodo (Mutiara II) Airport",
+      "city": "Labuhan Bajo",
+      "country": "Indonesia",
+      "iataId": "LBJ",
+      "icaoId": "WATO",
+      "latitude": -8.48666000366211,
+      "longitude": 119.88899993896484,
+      "timezone": 66,
+      "dst": "8",
+      "tzTimezone": "N",
+      "type": "Asia/Makassar",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Aerospatiale/Alenia ATR72",
+      "iataId": "AT7",
+      "icaoId": "AT72"
+    },
+    "airline": {
+      "id": "2520",
+      "name": "Garuda Indonesia",
+      "alias": null,
+      "iataId": "GA",
+      "icaoId": "GIA",
+      "callSign": "INDONESIA",
+      "country": "Indonesia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 429
+  },
+  {
+    "destination": {
+      "id": "8401",
+      "name": "Lombok International Airport",
+      "city": "Praya",
+      "country": "Indonesia",
+      "iataId": "LOP",
+      "icaoId": "WADL",
+      "latitude": -8.757322,
+      "longitude": 116.276675,
+      "timezone": 319,
+      "dst": "8",
+      "tzTimezone": "N",
+      "type": "Asia/Makassar",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Aerospatiale/Alenia ATR72",
+      "iataId": "AT7",
+      "icaoId": "AT72"
+    },
+    "airline": {
+      "id": "2520",
+      "name": "Garuda Indonesia",
+      "alias": null,
+      "iataId": "GA",
+      "icaoId": "GIA",
+      "callSign": "INDONESIA",
+      "country": "Indonesia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 970
+  },
+  {
+    "destination": {
+      "id": "3316",
+      "name": "Singapore Changi Airport",
+      "city": "Singapore",
+      "country": "Singapore",
+      "iataId": "SIN",
+      "icaoId": "WSSS",
+      "latitude": 1.35019,
+      "longitude": 103.994003,
+      "timezone": 22,
+      "dst": "8",
+      "tzTimezone": "N",
+      "type": "Asia/Singapore",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Boeing737-800",
+      "iataId": "738",
+      "icaoId": "B738"
+    },
+    "airline": {
+      "id": "2520",
+      "name": "Garuda Indonesia",
+      "alias": null,
+      "iataId": "GA",
+      "icaoId": "GIA",
+      "callSign": "INDONESIA",
+      "country": "Indonesia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 908
+  },
+  {
+    "destination": {
+      "id": "3930",
+      "name": "Incheon International Airport",
+      "city": "Seoul",
+      "country": "South Korea",
+      "iataId": "ICN",
+      "icaoId": "RKSI",
+      "latitude": 37.46910095214844,
+      "longitude": 126.45099639892578,
+      "timezone": 23,
+      "dst": "9",
+      "tzTimezone": "U",
+      "type": "Asia/Seoul",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A330-300",
+      "iataId": "333",
+      "icaoId": "A333"
+    },
+    "airline": {
+      "id": "2520",
+      "name": "Garuda Indonesia",
+      "alias": null,
+      "iataId": "GA",
+      "icaoId": "GIA",
+      "callSign": "INDONESIA",
+      "country": "Indonesia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 807
+  },
+  {
+    "destination": {
+      "id": "3898",
+      "name": "Adi Sutjipto International Airport",
+      "city": "Yogyakarta",
+      "country": "Indonesia",
+      "iataId": "JOG",
+      "icaoId": "WARJ",
+      "latitude": -7.788179874420166,
+      "longitude": 110.43199920654297,
+      "timezone": 350,
+      "dst": "7",
+      "tzTimezone": "N",
+      "type": "Asia/Jakarta",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Boeing737-800",
+      "iataId": "738",
+      "icaoId": "B738"
+    },
+    "airline": {
+      "id": "2520",
+      "name": "Garuda Indonesia",
+      "alias": null,
+      "iataId": "GA",
+      "icaoId": "GIA",
+      "callSign": "INDONESIA",
+      "country": "Indonesia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 183
+  },
+  {
+    "destination": {
+      "id": "3999",
+      "name": "Darwin International Airport",
+      "city": "Darwin",
+      "country": "Australia",
+      "iataId": "DRW",
+      "icaoId": "YPDN",
+      "latitude": -12.41469955444336,
+      "longitude": 130.8769989013672,
+      "timezone": 103,
+      "dst": "9.5",
+      "tzTimezone": "N",
+      "type": "Australia/Darwin",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A320",
+      "iataId": "320",
+      "icaoId": "A320"
+    },
+    "airline": {
+      "id": "3052",
+      "name": "Jetstar Airways",
+      "alias": null,
+      "iataId": "JQ",
+      "icaoId": "JST",
+      "callSign": "JETSTAR",
+      "country": "Australia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 468
+  },
+  {
+    "destination": {
+      "id": "3240",
+      "name": "Hasanuddin International Airport",
+      "city": "Ujung Pandang",
+      "country": "Indonesia",
+      "iataId": "UPG",
+      "icaoId": "WAAA",
+      "latitude": -5.061629772186279,
+      "longitude": 119.55400085449219,
+      "timezone": 47,
+      "dst": "8",
+      "tzTimezone": "N",
+      "type": "Asia/Makassar",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Canadair Regional Jet1000",
+      "iataId": "CRK",
+      "icaoId": "CRJX"
+    },
+    "airline": {
+      "id": "2520",
+      "name": "Garuda Indonesia",
+      "alias": null,
+      "iataId": "GA",
+      "icaoId": "GIA",
+      "callSign": "INDONESIA",
+      "country": "Indonesia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 928
+  },
+  {
+    "destination": {
+      "id": "3341",
+      "name": "Adelaide International Airport",
+      "city": "Adelaide",
+      "country": "Australia",
+      "iataId": "ADL",
+      "icaoId": "YPAD",
+      "latitude": -34.94499969482422,
+      "longitude": 138.531005859375,
+      "timezone": 20,
+      "dst": "9.5",
+      "tzTimezone": "O",
+      "type": "Australia/Adelaide",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A320",
+      "iataId": "320",
+      "icaoId": "A320"
+    },
+    "airline": {
+      "id": "3052",
+      "name": "Jetstar Airways",
+      "alias": null,
+      "iataId": "JQ",
+      "icaoId": "JST",
+      "callSign": "JETSTAR",
+      "country": "Australia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 388
+  },
+  {
+    "destination": {
+      "id": "3901",
+      "name": "Achmad Yani Airport",
+      "city": "Semarang",
+      "country": "Indonesia",
+      "iataId": "SRG",
+      "icaoId": "WARS",
+      "latitude": -6.97273,
+      "longitude": 110.375,
+      "timezone": 10,
+      "dst": "7",
+      "tzTimezone": "N",
+      "type": "Asia/Jakarta",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Canadair Regional Jet1000",
+      "iataId": "CRK",
+      "icaoId": "CRJX"
+    },
+    "airline": {
+      "id": "2520",
+      "name": "Garuda Indonesia",
+      "alias": null,
+      "iataId": "GA",
+      "icaoId": "GIA",
+      "callSign": "INDONESIA",
+      "country": "Indonesia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 466
+  },
+  {
+    "destination": {
+      "id": "3339",
+      "name": "Melbourne International Airport",
+      "city": "Melbourne",
+      "country": "Australia",
+      "iataId": "MEL",
+      "icaoId": "YMML",
+      "latitude": -37.673301696777344,
+      "longitude": 144.84300231933594,
+      "timezone": 434,
+      "dst": "10",
+      "tzTimezone": "O",
+      "type": "Australia/Hobart",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A330-300",
+      "iataId": "333",
+      "icaoId": "A333"
+    },
+    "airline": {
+      "id": "2520",
+      "name": "Garuda Indonesia",
+      "alias": null,
+      "iataId": "GA",
+      "icaoId": "GIA",
+      "callSign": "INDONESIA",
+      "country": "Indonesia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 63
+  },
+  {
+    "destination": {
+      "id": "3894",
+      "name": "Abdul Rachman Saleh Airport",
+      "city": "Malang",
+      "country": "Indonesia",
+      "iataId": "MLG",
+      "icaoId": "WARA",
+      "latitude": -7.926559925079999,
+      "longitude": 112.714996338,
+      "timezone": 1726,
+      "dst": "7",
+      "tzTimezone": "N",
+      "type": "Asia/Jakarta",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Aerospatiale/Alenia ATR42-600",
+      "iataId": "ATR",
+      "icaoId": "AT46"
+    },
+    "airline": {
+      "id": "3290",
+      "name": "Lion Mentari Airlines",
+      "alias": null,
+      "iataId": "JT",
+      "icaoId": "LNI",
+      "callSign": "LION INTER",
+      "country": "Indonesia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 151
+  },
+  {
+    "destination": {
+      "id": "3928",
+      "name": "Juanda International Airport",
+      "city": "Surabaya",
+      "country": "Indonesia",
+      "iataId": "SUB",
+      "icaoId": "WARR",
+      "latitude": -7.3798298835754395,
+      "longitude": 112.78700256347656,
+      "timezone": 9,
+      "dst": "7",
+      "tzTimezone": "N",
+      "type": "Asia/Jakarta",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Canadair Regional Jet1000",
+      "iataId": "CRK",
+      "icaoId": "CRJX"
+    },
+    "airline": {
+      "id": "2520",
+      "name": "Garuda Indonesia",
+      "alias": null,
+      "iataId": "GA",
+      "icaoId": "GIA",
+      "callSign": "INDONESIA",
+      "country": "Indonesia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 919
+  },
+  {
+    "destination": {
+      "id": "2279",
+      "name": "Narita International Airport",
+      "city": "Tokyo",
+      "country": "Japan",
+      "iataId": "NRT",
+      "icaoId": "RJAA",
+      "latitude": 35.7647018433,
+      "longitude": 140.386001587,
+      "timezone": 141,
+      "dst": "9",
+      "tzTimezone": "U",
+      "type": "Asia/Tokyo",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A330-300",
+      "iataId": "333",
+      "icaoId": "A333"
+    },
+    "airline": {
+      "id": "2520",
+      "name": "Garuda Indonesia",
+      "alias": null,
+      "iataId": "GA",
+      "icaoId": "GIA",
+      "callSign": "INDONESIA",
+      "country": "Indonesia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 393
+  },
+  {
+    "destination": {
+      "id": "3903",
+      "name": "Hang Nadim International Airport",
+      "city": "Batam",
+      "country": "Indonesia",
+      "iataId": "BTH",
+      "icaoId": "WIDD",
+      "latitude": 1.12102997303,
+      "longitude": 104.119003296,
+      "timezone": 126,
+      "dst": "7",
+      "tzTimezone": "N",
+      "type": "Asia/Jakarta",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Boeing737-900",
+      "iataId": "739",
+      "icaoId": "B739"
+    },
+    "airline": {
+      "id": "3290",
+      "name": "Lion Mentari Airlines",
+      "alias": null,
+      "iataId": "JT",
+      "icaoId": "LNI",
+      "callSign": "LION INTER",
+      "country": "Indonesia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 561
+  },
+  {
+    "destination": {
+      "id": "3361",
+      "name": "Sydney Kingsford Smith International Airport",
+      "city": "Sydney",
+      "country": "Australia",
+      "iataId": "SYD",
+      "icaoId": "YSSY",
+      "latitude": -33.94609832763672,
+      "longitude": 151.177001953125,
+      "timezone": 21,
+      "dst": "10",
+      "tzTimezone": "O",
+      "type": "Australia/Sydney",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A330-200",
+      "iataId": "332",
+      "icaoId": "A332"
+    },
+    "airline": {
+      "id": "2520",
+      "name": "Garuda Indonesia",
+      "alias": null,
+      "iataId": "GA",
+      "icaoId": "GIA",
+      "callSign": "INDONESIA",
+      "country": "Indonesia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 696
+  },
+  {
+    "destination": {
+      "id": "3406",
+      "name": "Shanghai Pudong International Airport",
+      "city": "Shanghai",
+      "country": "China",
+      "iataId": "PVG",
+      "icaoId": "ZSPD",
+      "latitude": 31.143400192260742,
+      "longitude": 121.80500030517578,
+      "timezone": 13,
+      "dst": "8",
+      "tzTimezone": "U",
+      "type": "Asia/Shanghai",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A330-200",
+      "iataId": "332",
+      "icaoId": "A332"
+    },
+    "airline": {
+      "id": "1758",
+      "name": "China Eastern Airlines",
+      "alias": null,
+      "iataId": "MU",
+      "icaoId": "CES",
+      "callSign": "CHINA EASTERN",
+      "country": "China",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 399
+  },
+  {
+    "destination": {
+      "id": "3927",
+      "name": "Waingapu Airport",
+      "city": "Waingapu",
+      "country": "Indonesia",
+      "iataId": "WGP",
+      "icaoId": "WADW",
+      "latitude": -9.669219970699999,
+      "longitude": 120.302001953,
+      "timezone": 33,
+      "dst": "8",
+      "tzTimezone": "N",
+      "type": "Asia/Makassar",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Aerospatiale/Alenia ATR42-600",
+      "iataId": "ATR",
+      "icaoId": "AT46"
+    },
+    "airline": {
+      "id": "3290",
+      "name": "Lion Mentari Airlines",
+      "alias": null,
+      "iataId": "JT",
+      "icaoId": "LNI",
+      "callSign": "LION INTER",
+      "country": "Indonesia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 575
+  },
+  {
+    "destination": {
+      "id": "3243",
+      "name": "Moses Kilangin Airport",
+      "city": "Timika",
+      "country": "Indonesia",
+      "iataId": "TIM",
+      "icaoId": "WABP",
+      "latitude": -4.528279781341553,
+      "longitude": 136.88699340820312,
+      "timezone": 103,
+      "dst": "9",
+      "tzTimezone": "N",
+      "type": "Asia/Jayapura",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Boeing737-800",
+      "iataId": "738",
+      "icaoId": "B738"
+    },
+    "airline": {
+      "id": "2520",
+      "name": "Garuda Indonesia",
+      "alias": null,
+      "iataId": "GA",
+      "icaoId": "GIA",
+      "callSign": "INDONESIA",
+      "country": "Indonesia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 394
+  },
+  {
+    "destination": {
+      "id": "3913",
+      "name": "Maumere(Wai Oti) Airport",
+      "city": "Maumere",
+      "country": "Indonesia",
+      "iataId": "MOF",
+      "icaoId": "WATC",
+      "latitude": -8.64064979553,
+      "longitude": 122.236999512,
+      "timezone": 115,
+      "dst": "8",
+      "tzTimezone": "N",
+      "type": "Asia/Makassar",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Aerospatiale/Alenia ATR42-600",
+      "iataId": "ATR",
+      "icaoId": "AT46"
+    },
+    "airline": {
+      "id": "3290",
+      "name": "Lion Mentari Airlines",
+      "alias": null,
+      "iataId": "JT",
+      "icaoId": "LNI",
+      "callSign": "LION INTER",
+      "country": "Indonesia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 547
+  },
+  {
+    "destination": {
+      "id": "3269",
+      "name": "Kota Kinabalu International Airport",
+      "city": "Kota Kinabalu",
+      "country": "Malaysia",
+      "iataId": "BKI",
+      "icaoId": "WBKK",
+      "latitude": 5.9372100830078125,
+      "longitude": 116.0510025024414,
+      "timezone": 10,
+      "dst": "8",
+      "tzTimezone": "N",
+      "type": "Asia/Kuala_Lumpur",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A320",
+      "iataId": "320",
+      "icaoId": "A320"
+    },
+    "airline": {
+      "id": "2857",
+      "name": "Indonesia AirAsia",
+      "alias": null,
+      "iataId": "QZ",
+      "icaoId": "AWQ",
+      "callSign": "WAGON AIR",
+      "country": "Indonesia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 933
+  },
+  {
+    "destination": {
+      "id": "3885",
+      "name": "Suvarnabhumi Airport",
+      "city": "Bangkok",
+      "country": "Thailand",
+      "iataId": "BKK",
+      "icaoId": "VTBS",
+      "latitude": 13.681099891662598,
+      "longitude": 100.74700164794922,
+      "timezone": 5,
+      "dst": "7",
+      "tzTimezone": "U",
+      "type": "Asia/Bangkok",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Boeing777",
+      "iataId": "777",
+      "icaoId": null
+    },
+    "airline": {
+      "id": "4940",
+      "name": "Thai Airways International",
+      "alias": null,
+      "iataId": "TG",
+      "icaoId": "THA",
+      "callSign": "THAI",
+      "country": "Thailand",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 662
+  },
+  {
+    "destination": {
+      "id": "5",
+      "name": "Port Moresby Jacksons International Airport",
+      "city": "Port Moresby",
+      "country": "Papua New Guinea",
+      "iataId": "POM",
+      "icaoId": "AYPY",
+      "latitude": -9.443380355834961,
+      "longitude": 147.22000122070312,
+      "timezone": 146,
+      "dst": "10",
+      "tzTimezone": "U",
+      "type": "Pacific/Port_Moresby",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Boeing737-800",
+      "iataId": "738",
+      "icaoId": "B738"
+    },
+    "airline": {
+      "id": "328",
+      "name": "Air Niugini",
+      "alias": null,
+      "iataId": "PX",
+      "icaoId": "ANG",
+      "callSign": "NUIGINI",
+      "country": "Papua New Guinea",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 198
+  },
+  {
+    "destination": {
+      "id": "3919",
+      "name": "Sultan Aji Muhamad Sulaiman Airport",
+      "city": "Balikpapan",
+      "country": "Indonesia",
+      "iataId": "BPN",
+      "icaoId": "WALL",
+      "latitude": -1.26827001572,
+      "longitude": 116.893997192,
+      "timezone": 12,
+      "dst": "8",
+      "tzTimezone": "N",
+      "type": "Asia/Makassar",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Airbus A320",
+      "iataId": "320",
+      "icaoId": "A320"
+    },
+    "airline": {
+      "id": "19305",
+      "name": "Citilink Indonesia",
+      "alias": null,
+      "iataId": "QG",
+      "icaoId": null,
+      "callSign": "SUPERGREEN",
+      "country": "Indonesia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 876
+  },
+  {
+    "destination": {
+      "id": "3310",
+      "name": "Presidente Nicolau Lobato International Airport",
+      "city": "Dili",
+      "country": "East Timor",
+      "iataId": "DIL",
+      "icaoId": "WPDL",
+      "latitude": -8.54640007019,
+      "longitude": 125.526000977,
+      "timezone": 154,
+      "dst": "9",
+      "tzTimezone": "U",
+      "type": "Asia/Dili",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Boeing737-500",
+      "iataId": "735",
+      "icaoId": "B735"
+    },
+    "airline": {
+      "id": "4454",
+      "name": "Sriwijaya Air",
+      "alias": null,
+      "iataId": "SJ",
+      "icaoId": "SJY",
+      "callSign": "SRIWIJAYA",
+      "country": "Indonesia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 639
+  },
+  {
+    "destination": {
+      "id": "3349",
+      "name": "Port Hedland International Airport",
+      "city": "Port Hedland",
+      "country": "Australia",
+      "iataId": "PHE",
+      "icaoId": "YPPD",
+      "latitude": -20.3777999878,
+      "longitude": 118.625999451,
+      "timezone": 33,
+      "dst": "8",
+      "tzTimezone": "O",
+      "type": "Australia/Perth",
+      "source": "airport"
+    },
+    "plane": {
+      "name": "Fokker100",
+      "iataId": "100",
+      "icaoId": "F100"
+    },
+    "airline": {
+      "id": "5360",
+      "name": "Virgin Australia",
+      "alias": null,
+      "iataId": "VA",
+      "icaoId": "VOZ",
+      "callSign": "VIRGIN",
+      "country": "Australia",
+      "active": false
+    },
+    "codeshare": false,
+    "stops": 0,
+    "fare": 474
+  }
+]

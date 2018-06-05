@@ -1,0 +1,35 @@
+{
+  "destination": {
+    "id": "3494",
+    "name": "Newark Liberty International Airport",
+    "city": "Newark",
+    "country": "United States",
+    "iataId": "EWR",
+    "icaoId": "KEWR",
+    "latitude": 40.692501068115234,
+    "longitude": -74.168701171875,
+    "timezone": 18.0,
+    "dst": "-5",
+    "tzTimezone": "A",
+    "type": "America/New_York",
+    "source": "airport"
+  },
+  "plane": {
+    "name": "Boeing 757-200",
+    "iataId": "752",
+    "icaoId": "B752"
+  },
+  "airline": {
+    "id": "3321",
+    "name": "Lufthansa Cargo",
+    "alias": null,
+    "iataId": "LH",
+    "icaoId": "GEC",
+    "callSign": "LUFTHANSA CARGO",
+    "country": "Germany",
+    "active": false
+  },
+  "codeshare": false,
+  "stops": 0,
+  "fare": 957
+}

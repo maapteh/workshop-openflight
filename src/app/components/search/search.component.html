@@ -1,0 +1,18 @@
+<div class="c-search">
+  <input
+    type="text"
+    #departure
+    placeholder="Departure from"
+    class="c-search__input"
+    [attr.aria-hidden]="isOpen === false">
+
+  <div
+    class="c-search__toggle"
+    (click)="toggleOpen()"
+    tabindex="0"
+    >
+    <span></span>
+    <span></span>
+    <span></span>
+  </div>
+</div>

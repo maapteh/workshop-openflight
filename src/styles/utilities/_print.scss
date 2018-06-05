@@ -1,0 +1,27 @@
+.u-print {
+  // only on print
+  &--only {
+    display: none;
+  }
+}
+
+@media print {
+  .u-print {
+
+    &--only {
+      display: block;
+    }
+
+    // do not print this container
+    &--none {
+      // sass-lint:disable-block no-important
+      display: none !important;
+    }
+
+    // on print make this column 100% width
+    &--full {
+      // sass-lint:disable-block no-important
+      width: 100% !important;
+    }
+  }
+}

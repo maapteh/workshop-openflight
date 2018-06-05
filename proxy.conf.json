@@ -1,0 +1,6 @@
+{
+  "/offers": {
+    "target": "http://localhost:8007",
+    "cookieDomainRewrite": "*"
+  }
+}
