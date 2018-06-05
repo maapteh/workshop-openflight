@@ -2,6 +2,14 @@
   (iata)="doSearch($event)">
 </app-search>
 
+<button
+  (click)="doStop()"
+  class="c-button o-player__stop"
+  tabindex="0"
+  *ngIf="isLoading">
+  STOP
+</button>
+
 <div
   #gmap
   class="c-map c-map--full">

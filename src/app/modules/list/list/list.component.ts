@@ -13,6 +13,7 @@ import { Destination } from '@dest-app/services/destination';
 export class ListComponent {
 
   public list$: Observable<OpenFlight[]>;
+  public isStarted = false;
   public iataCode: string;
 
   constructor(
@@ -23,7 +24,12 @@ export class ListComponent {
 
   public doSearch(iataCode: string) {
     this.iataCode = iataCode;
-    console.log('TODO: SEARCHING');
+    this.isStarted = true;
+    this.list$ = this.openFlightService.getList(iataCode);
   }
 
+  public doClean() {
+    this.isStarted = false;
+    this.list$ = observableEmpty();
+  }
 }

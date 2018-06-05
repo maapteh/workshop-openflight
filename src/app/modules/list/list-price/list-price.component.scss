@@ -1,0 +1,14 @@
+@import '~styles/variables.scss';
+
+:host {
+  display: inline-block;
+  width: 200px;
+}
+
+:host(.is-up) {
+  color: $primary_dark;
+}
+
+:host(.is-down) {
+  color: $secondary;
+}

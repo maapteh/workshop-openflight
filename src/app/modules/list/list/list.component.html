@@ -5,3 +5,28 @@
 <h1>
   OpenFlight listview <span *ngIf="iataCode">(departure from: {{iataCode}})</span>
 </h1>
+
+<button
+  (click)="doClean()"
+  class="c-button"
+  tabindex="0"
+  *ngIf="isStarted">
+  CLEAN
+</button>
+
+<ul class="c-list-destinations">
+  <li
+    class=""
+    *ngFor="let item of list$ | async"
+    >
+    <div class="">
+
+      <app-list-price [fare]="item.fare"></app-list-price>
+
+      <strong>{{item.destination.city}}</strong>
+
+      ({{item.destination.iataId}})
+
+    </div>
+  </li>
+</ul>
