@@ -53,6 +53,8 @@ Try to alter the service so it will give back the complete list as a result. Whe
 ### Map view
 When you are more familiair with [Google Maps API](https://developers.google.com/maps/documentation/javascript/overlays) it will be possible to plot the markers on the Map and update them accordingly. For this you will need to know the limitations of their API (no destroy, no repaint on marker update). [help](./internals/docs/MAP.md)
 
+*Please note that my personal key for Google Maps is used and this key is limmited on hits and in time (without any key it will not work at all). So after our workshop this key may not work anymore. Please use your own key in [environments](./src/environments/environment.ts)*
+
 ## Build
 - Testing build: `npm run dev -- --port=4444 --configuration=production --prod`
 - Running build `npm run build:prod`. The build artifacts will be stored in the `dist/` directory.
