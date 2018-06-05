@@ -1,5 +1,5 @@
 # Workshop "OpenFlight" by TECC-SE
-> This complementary user interface belongs to the workshop material during the **Schiphol Developers Group** on June 7th 2018 @ KLM. However the workshop can be followed by anybody interested in playing with some features from [Spring's WebFlux module]((https://github.com/afklm/sdd-webflux-workshop). With this user interface we are able to plot markers on a map or simply show a list. 
+> This complementary user interface belongs to the workshop material during the **Schiphol Developers Group** on June 7th 2018 @ KLM. However the workshop can be followed by anybody interested in playing with some features from [Spring's WebFlux module](https://github.com/afklm/sdd-webflux-workshop). With this user interface we are able to plot markers on a map or simply show a list. 
 
 ![overview](./internals/screens.gif "Possible endresult workshop")
 
