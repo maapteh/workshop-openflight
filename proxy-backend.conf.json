@@ -1,6 +1,6 @@
 {
   "/offers": {
-    "target": "http://172.30.8.35:8080",
+    "target": "http://YOUR-IP-HERE:9090",
     "cookieDomainRewrite": "*"
   }
 }
