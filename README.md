@@ -5,7 +5,7 @@
 
 ## A - Development server with mock backend (nodeJS)
 1) `npm run dev:mock`. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files. If you want to run on another port `npm run dev:mock -- port=4444`
-2) `npm start`
+2) `npm start` (only departures: 'DPS', 'LAX' and 'SVO' are based on real data)
 
 ## B - Development server with real backend (Java)
 1) Run your [backend server](https://github.com/afklm/sdd-webflux-workshop) and fill in your endpoint in './proxy-backend.conf.json'
