@@ -6,6 +6,7 @@
     "node": "^8.11.1"
   },
   "scripts": {
+    "postinstall": "npm run build:prod",
     "ng": "ng",
     "start": "node mock-app",
     "dev": "ng serve",
