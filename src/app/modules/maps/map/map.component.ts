@@ -83,6 +83,12 @@ export class MapComponent implements OnInit, OnDestroy {
     this.map.setCenter(bounds.getCenter());
     this.map.fitBounds(bounds);
 
+    // Do not zoom too much (patch for slow backend)
+    const zoomLevel = this.map.getZoom();
+
+    if (zoomLevel > 14) {
+      this.map.setZoom(14);
+    }
   }
 
   public doSearch(iataCode: string) {
