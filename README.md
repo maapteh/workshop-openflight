@@ -62,7 +62,7 @@ When you are more familiair with [Google Maps API](https://developers.google.com
 ## Further help
 Simply ask the people walking or sitting near you :)
 
-[![Heroku](http://heroku-badge.herokuapp.com/?app=afkl-workshop&style=flat&svg=1)]
+![Heroku](http://heroku-badge.herokuapp.com/?app=afkl-workshop&style=flat&svg=1)
 
 Spoiler allert!!! a possible solution is in the other branch :) and online at [afkl-workshop.herokuapp.com](https://afkl-workshop.herokuapp.com)
 
