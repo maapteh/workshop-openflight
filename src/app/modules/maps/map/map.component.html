@@ -6,3 +6,11 @@
   #gmap
   class="c-map c-map--full">
 </div>
+
+<button
+  (click)="doStop()"
+  class="c-button o-player__stop"
+  tabindex="0"
+  *ngIf="isLoading">
+    STOP
+</button>

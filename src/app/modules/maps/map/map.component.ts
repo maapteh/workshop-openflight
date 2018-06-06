@@ -15,6 +15,8 @@ export class MapComponent implements OnInit, OnDestroy {
 
   @ViewChild('gmap') gmapElement: ElementRef;
 
+  public isLoading = false;
+
   // reactive stream
   private subscription: Subscription;
 
@@ -47,6 +49,7 @@ export class MapComponent implements OnInit, OnDestroy {
   }
 
   public doStop() {
+    this.isLoading = false;
     if (this.subscription) {
       this.subscription.unsubscribe();
     }
@@ -63,9 +66,12 @@ export class MapComponent implements OnInit, OnDestroy {
     this.retrieveData(iataCode);
   }
 
-
   private showMarker(destination: Destination): void {
     console.log(`show marker for ${destination}`);
+  }
+
+  private updateMarker(destination: Destination): void {
+    console.log(`update marker for ${destination}`);
   }
 
   // we now have the google maps script and global variable available
@@ -100,23 +106,26 @@ export class MapComponent implements OnInit, OnDestroy {
       this.subscription.unsubscribe();
     }
 
+    this.isLoading = true;
+
     this.subscription = this.openFlightService.
       get(origin)
         .subscribe({
           next: ((event) => {
 
-            // Now create something which pushes the icon to the map
-            console.log('event received');
-            console.log(event);
+            // TODO: Now create something which pushes the icon to the map
+            // HINT: make something which can know if it's a new marker (show) or exisiting one (update)
+            console.log(`Event received: ${event.destination.name} ${event.fare}`);
 
           }),
           error: ((err) => {
-            // TODO: ???
+            // FIXME LATER :)
             console.log(`Oops... ${err}`);
           }),
           complete: () => {
             // Done
             console.log('completed');
+            this.isLoading = false;
           },
         });
   }

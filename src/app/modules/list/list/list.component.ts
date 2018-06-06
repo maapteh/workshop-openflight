@@ -23,7 +23,7 @@ export class ListComponent {
 
   public doSearch(iataCode: string) {
     this.iataCode = iataCode;
-    console.log('TODO: SEARCHING');
+    console.log(`TODO: CALL STREAM AND SUBSCRIBE FOR: ${iataCode.toUpperCase()}`);
   }
 
 }
