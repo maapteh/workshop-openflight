@@ -227,7 +227,7 @@ export class MapComponent implements OnInit, OnDestroy {
           }),
           error: ((err) => {
             // TODO: ???
-            console.log(`Oops... ${err}`);
+            console.log('Oeps', err);
           }),
           complete: () => {
             // Done
