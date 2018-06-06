@@ -19,7 +19,7 @@ function loadStubResult(file) {
 }
 
 // Static content (output of 'npm run build', when deployed whole package)
-app.use(express.static('./dist/'));
+app.use(express.static('./dist/destination/'));
 
 // Same endpoint as real Java Flux one
 app.get('/offers/:origin', (req, res) => {
