@@ -70,7 +70,7 @@ app.get('/offers/:origin', (req, res) => {
 
 // Support pushstate (asuming not found entries are states)
 app.get('*', (req, res) => {
-  res.sendFile(stubRootDirectory + '/dist/index.html');
+  res.sendFile(stubRootDirectory + '/dist/destination/index.html');
 });
 
 app.listen(port);
