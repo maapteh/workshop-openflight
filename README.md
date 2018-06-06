@@ -60,8 +60,10 @@ When you are more familiair with [Google Maps API](https://developers.google.com
 - Running build `npm run build:prod`. The build artifacts will be stored in the `dist/` directory.
 
 ## Further help
-Simply ask the people walking near you :)
+Simply ask the people walking or sitting near you :)
 
-Spoiler allert!!! a possible solution is in the other branch :)
+[![Heroku](http://heroku-badge.herokuapp.com/?app=afkl-workshop&style=flat&svg=1)]
+
+Spoiler allert!!! a possible solution is in the other branch :) and online at [afkl-workshop.herokuapp.com](https://afkl-workshop.herokuapp.com)
 
 *workshop is provided by TECC-SE innovation lab at [AFKLM](https://github.com/afklm)*
