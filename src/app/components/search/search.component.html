@@ -1,9 +1,11 @@
 <div class="c-search">
   <input
     type="text"
-    #departure
     placeholder="Departure from"
     class="c-search__input"
+    #departure
+    (keydown.enter)="toggleOpen()"
+    (keydown.tab)="toggleOpen()"
     [attr.aria-hidden]="isOpen === false">
 
   <div
