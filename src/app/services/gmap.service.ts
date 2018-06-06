@@ -16,7 +16,7 @@ export class GmapService {
     if (!GmapService.promise) {
 
       const globalCallback = '__onGoogleLoaded';
-      const url = `http://maps.googleapis.com/maps/api/js?callback=${globalCallback}&key=${environment.gmapKey}`;
+      const url = `https://maps.googleapis.com/maps/api/js?callback=${globalCallback}&key=${environment.gmapKey}`;
       const markers = '/assets/marker.js';
 
       GmapService.promise = new Promise((resolve) => {
