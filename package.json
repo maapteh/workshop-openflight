@@ -2,6 +2,9 @@
   "name": "com.afklm.tecc-se.openflight.frontend",
   "description": "Angular frontend for workshop about reactive streams using OpenFlight data in a reactive backend to plot markers and update their data accordingly. June 2018.",
   "version": "0.0.1",
+  "engines": {
+    "node": "^8.11.1"
+  },
   "scripts": {
     "ng": "ng",
     "start": "node mock-app",
