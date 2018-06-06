@@ -1,6 +1,6 @@
 {
   "/offers": {
-    "target": "http://YOUR-IP-HERE:9090",
+    "target": "http://localhost:9090",
     "cookieDomainRewrite": "*"
   }
 }

@@ -1,5 +1,4 @@
 import { Component, OnInit, OnDestroy, ElementRef, ViewChild } from '@angular/core';
-// import { } from '@types/googlemaps';
 import { Observable, Subscription } from 'rxjs';
 
 import { GmapService } from '@dest-app/services/gmap.service';
