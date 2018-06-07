@@ -23,6 +23,7 @@ export class ListComponent {
   }
 
   public doSearch(iataCode: string) {
+    this.doClean();
     this.iataCode = iataCode;
     this.isStarted = true;
     this.list$ = this.openFlightService.getList(iataCode);
