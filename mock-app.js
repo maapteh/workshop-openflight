@@ -19,9 +19,10 @@ function loadStubResult(file) {
   return JSON.parse(fs.readFileSync(stubRootDirectory + '/internals/stubs/' + file, { encoding: 'utf8' }));
 }
 
+app.use(compression());
+
 // Static content (output of 'npm run build', when deployed whole package)
 app.use(express.static('./dist/destination/'));
-app.use(compression());
 
 // Same endpoint as real Java Flux one
 app.get('/offers/:origin', (req, res) => {
