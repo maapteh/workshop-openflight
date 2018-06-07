@@ -4,6 +4,7 @@
  */
 const fs = require('fs');
 const express = require('express');
+const compression = require('compression')
 const app = express();
 const port = process.env.PORT ? parseInt(process.env.PORT, 10) : 8007;
 const stubRootDirectory = process.cwd();
@@ -20,6 +21,7 @@ function loadStubResult(file) {
 
 // Static content (output of 'npm run build', when deployed whole package)
 app.use(express.static('./dist/destination/'));
+app.use(compression());
 
 // Same endpoint as real Java Flux one
 app.get('/offers/:origin', (req, res) => {
@@ -58,6 +60,9 @@ app.get('/offers/:origin', (req, res) => {
       res.write('data: ' + sendData + '\n\n');
 
       thisEvent++;
+
+      // added when using compression
+      res.flush();
 
   }, mockedTimer);
 

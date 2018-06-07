@@ -19,14 +19,15 @@ export class SearchComponent implements OnInit {
   constructor() { }
 
   public ngOnInit() {
+
     observableFromEvent(this.departureElement.nativeElement, 'keyup')
-    .pipe(
-      map((event: any) => event.target.value),
-      filter((res) => res.length >= 2),
-      debounceTime(600),
-      distinctUntilChanged(),
-    )
-    .subscribe((text: string) => this.doSearch(text));
+      .pipe(
+        map((event: any) => event.target.value),
+        filter((res) => res.length >= 2),
+        debounceTime(600),
+        distinctUntilChanged(),
+      )
+      .subscribe((text: string) => this.doSearch(text));
   }
 
   public toggleOpen() {
