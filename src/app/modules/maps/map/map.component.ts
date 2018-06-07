@@ -171,7 +171,7 @@ export class MapComponent implements OnInit, OnDestroy {
 
     const mapProp = {
       center: new this.google.maps.LatLng(52.10461, 4.27557),
-      zoom: 15,
+      zoom: 4,
       mapTypeControl: false,
       mapTypeId: this.google.maps.MapTypeId.ROADMAP,
       streetViewControl: false
