@@ -6,3 +6,13 @@
   height: 100%;
   position: relative;
 }
+
+.c-logo {
+  &__tecc {
+    position: absolute;
+    right: 40px;
+    top: 4px;
+    z-index: 10;
+    width: 200px;
+  }
+}

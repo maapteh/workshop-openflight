@@ -7,26 +7,33 @@
 </h1>
 
 <button
-  (click)="doClean()"
+  type="submit"
   class="c-button"
   tabindex="0"
-  *ngIf="isStarted">
-  CLEAN
+  #clean
+  >
+  STOP
 </button>
+
+<app-spinner
+  [isLoading]="isLoading"
+  >
+</app-spinner>
 
 <ul class="c-list-destinations">
   <li
-    class=""
-    *ngFor="let item of list$ | async"
+    class="c-list-destinations__item"
+    *ngFor="let item of items"
     >
-    <div class="">
 
-      <app-list-price [fare]="item.fare"></app-list-price>
+    <app-list-price
+      [fare]="item.fare"
+      >
+    </app-list-price>
 
-      <strong>{{item.destination.city}}</strong>
+    <strong>{{item.destination.city}}</strong>
 
-      ({{item.destination.iataId}})
+    ({{item.destination.iataId}})
 
-    </div>
   </li>
 </ul>
