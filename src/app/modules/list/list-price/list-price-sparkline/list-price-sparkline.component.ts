@@ -1,4 +1,4 @@
-import { Component, OnInit, OnDestroy, AfterViewInit, Input, ElementRef, NgZone, ChangeDetectionStrategy } from '@angular/core';
+import { Component, OnInit, OnDestroy, AfterViewInit, Input, ElementRef, NgZone, ChangeDetectionStrategy, Renderer2 } from '@angular/core';
 import { Chart } from 'chart.js';
 
 @Component({
@@ -16,6 +16,7 @@ export class ListPriceSparklineComponent implements OnInit, OnDestroy, AfterView
 
   constructor(
     private el: ElementRef,
+    private renderer: Renderer2,
     private ngZone: NgZone,
   ) { }
 
@@ -56,12 +57,13 @@ export class ListPriceSparklineComponent implements OnInit, OnDestroy, AfterView
       }
 
       // set the canvas (chartJS needs a canvas)
-      this.canvas = document.createElement('canvas');
-      this.canvas.style.width = '100';
-      this.canvas.style.height = '24';
-      this.canvas.style.display = 'inline-block';
+      this.canvas = this.renderer.createElement('canvas');
 
-      this.el.nativeElement.appendChild(this.canvas);
+      this.renderer.setProperty(this.canvas, 'width', '100%');
+      this.renderer.setProperty(this.canvas, 'height', '32');
+      this.renderer.setProperty(this.canvas, 'display', 'inline-block');
+
+      this.renderer.appendChild(this.el.nativeElement, this.canvas);
 
       // mock two points to start with the base fare (a single item will not plot anything)
       const data = {
