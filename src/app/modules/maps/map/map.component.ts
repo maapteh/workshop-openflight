@@ -50,7 +50,9 @@ export class MapComponent implements OnInit, OnDestroy {
     // to instantiate the map outside the app and move it when needed
     // but for this demo i'm fine it leaks a little. Do not use in production code!
     this.cleanMarkers();
-    this.google.maps.event.clearInstanceListeners(this.map);
+    if (this.google) {
+      this.google.maps.event.clearInstanceListeners(this.map);
+    }
   }
 
   public doStop() {
@@ -250,4 +252,5 @@ export class MapComponent implements OnInit, OnDestroy {
     }
     this.markers = [];
   }
+
 }

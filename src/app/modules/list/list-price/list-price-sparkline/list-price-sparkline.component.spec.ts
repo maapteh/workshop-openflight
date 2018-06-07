@@ -16,6 +16,7 @@ describe('ListPriceSparklineComponent', () => {
   beforeEach(() => {
     fixture = TestBed.createComponent(ListPriceSparklineComponent);
     component = fixture.componentInstance;
+    component.fare = 400;
     fixture.detectChanges();
   });
 
