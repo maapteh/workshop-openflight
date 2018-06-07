@@ -48,9 +48,17 @@ export class ListComponent implements AfterViewInit, OnDestroy {
       .getList(iataCode)
         .pipe(
           takeUntil(this.cancel$),
-        ).subscribe((data) => {
-          this.items = data;
-          this.isLoading = false;
+        ).subscribe({
+          next: ((data) => {
+            this.items = data;
+            this.isLoading = false;
+          }),
+          error: ((err) => {
+            this.isLoading = false;
+          }),
+          complete: () => {
+            this.isLoading = false;
+          },
         });
 
   }
