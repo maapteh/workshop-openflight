@@ -16,12 +16,12 @@ export class ListComponent implements AfterViewInit, OnDestroy {
   @ViewChild('clean') stopElement: ElementRef;
 
   public items: OpenFlight[] = [];
-
   public isLoading = false;
   public iataCode: string;
 
-  private subscription: Subscription;
+  private list$: Observable<OpenFlight[]>;
   private cancel$;
+  private subscription: Subscription;
 
   constructor(
     private openFlightService: OpenFlightService,
@@ -30,10 +30,12 @@ export class ListComponent implements AfterViewInit, OnDestroy {
   }
 
   ngAfterViewInit() {
+    // element is visible, so usable for us
     this.cancel$ = observableFromEvent(this.stopElement.nativeElement, 'click');
   }
 
   ngOnDestroy() {
+    // make sure to clean up our subscription
     this.destroy();
   }
 
@@ -44,22 +46,26 @@ export class ListComponent implements AfterViewInit, OnDestroy {
 
     this.destroy();
 
-    this.subscription = this.openFlightService
+    this.list$ = this.openFlightService
       .getList(iataCode)
         .pipe(
           takeUntil(this.cancel$),
-        ).subscribe({
-          next: ((data) => {
-            this.items = data;
-            this.isLoading = false;
-          }),
-          error: ((err) => {
-            this.isLoading = false;
-          }),
-          complete: () => {
-            this.isLoading = false;
-          },
-        });
+        );
+
+    this.subscription = this.list$.subscribe({
+      next: ((data) => {
+        this.items = data;
+        this.isLoading = false;
+      }),
+      error: ((err) => {
+        // TODO: SHOW WE .UP
+        this.isLoading = false;
+      }),
+      complete: () => {
+        // DONE
+        this.isLoading = false;
+      }
+    });
 
   }
 
