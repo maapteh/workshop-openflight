@@ -35,7 +35,8 @@ export class OpenFlightService {
           eventSource.close();
           return observer.complete();
         } else {
-          return observer.error('EventSource error: ' + error);
+          // Eventsource error
+          return observer.error(error);
         }
       }));
 
