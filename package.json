@@ -14,8 +14,8 @@
     "dev:mock": "ng serve --proxy-config proxy.conf.json",
     "dev:backend": "ng serve --proxy-config proxy-backend.conf.json",
     "build": "ng build",
-    "build:prod": "ng build --configuration=production --prod",
-    "test": "ng test",
+    "build:prod": "ng build --configuration=production --prod --stats-json",
+    "test": "ng test --stats-json",
     "lint": "ng lint",
     "e2e": "ng e2e"
   },
