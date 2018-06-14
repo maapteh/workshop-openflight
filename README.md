@@ -1,15 +1,14 @@
-[![Heroku](http://heroku-badge.herokuapp.com/?app=afkl-workshop&style=flat&svg=1)]
-
-[![SonarCoverage](https://sonarcloud.io/api/project_badges/measure?project=com.afklm.tecc-se.openflight.frontend&metric=coverage)]
-
-[![SonarLines](https://sonarcloud.io/api/project_badges/measure?project=com.afklm.tecc-se.openflight.frontend&metric=ncloc)]
-
-[![SonarGate](https://sonarcloud.io/api/project_badges/measure?project=com.afklm.tecc-se.openflight.frontend&metric=alert_status)]
+![Heroku](http://heroku-badge.herokuapp.com/?app=afkl-workshop&style=flat&svg=1)
+![SonarCoverage](https://sonarcloud.io/api/project_badges/measure?project=com.afklm.tecc-se.openflight.frontend&metric=coverage)
+![SonarLines](https://sonarcloud.io/api/project_badges/measure?project=com.afklm.tecc-se.openflight.frontend&metric=ncloc)
+![SonarGate](https://sonarcloud.io/api/project_badges/measure?project=com.afklm.tecc-se.openflight.frontend&metric=alert_status)
 
 # Workshop "OpenFlight" by TECC-SE
 > This complementary user interface belongs to the workshop material during the **Schiphol Developers Group** on June 14th 2018 @ KLM. However the workshop can be followed by anybody interested in playing with some features from [Spring's WebFlux module](https://github.com/afklm/sdd-webflux-workshop). With this user interface we are able to plot markers on a map or simply show a list. 
 
 ![overview](./internals/screens.gif "Possible endresult workshop")
+
+*workshop is provided by TECC-SE innovation lab at [AFKLM](https://github.com/afklm)*
 
 ## A - Development server with mock backend (nodeJS)
 1) `npm run dev:mock`. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files. If you want to run on another port `npm run dev:mock -- port=4444`
@@ -67,9 +66,15 @@ When you are more familiair with [Google Maps API](https://developers.google.com
 - Testing build: `npm run dev -- --port=4444 --configuration=production --prod`
 - Running build `npm run build:prod`. The build artifacts will be stored in the `dist/` directory.
 
-## Further help
+## Help
 Simply ask the people walking or sitting near you :)
 
-Spoiler allert!!! a possible solution is in the other branch :) and online at [afkl-workshop.herokuapp.com](https://afkl-workshop.herokuapp.com)
+## EventSource interface background information
+"The EventSource interface is web content's interface to server-sent events. An EventSource instance opens a persistent connection to an HTTP server, which sends events in text/event-stream format."
+[EventSource](https://developer.mozilla.org/en-US/docs/Web/API/EventSource)
+[can-i-use](https://caniuse.com/#feat=eventsource)
 
-*workshop is provided by TECC-SE innovation lab at [AFKLM](https://github.com/afklm)*
+### Browsers
+Supported by allmost al browsers but [IE](https://developer.microsoft.com/en-us/microsoft-edge/platform/status/serversenteventseventsource/), so we are using 'eventsource-polyfill' for most of them.
+
+**Spoiler allert!!! a possible solution is in the other branch :) and online at [afkl-workshop.herokuapp.com](https://afkl-workshop.herokuapp.com)**
